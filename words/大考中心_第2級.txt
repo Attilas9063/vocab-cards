@@ -1,0 +1,1000 @@
+#separator:tab
+#html:true
+absence	缺席；不在（n.）<br><br>His absence was a surprise.<br>他的缺席令人意外。<br><br>形容詞：absent
+absent	缺席的（adj./v.）<br><br>Tom is absent today.<br>Tom 今天缺席。
+accept	接受（v.）<br><br>I accept your offer.<br>我接受你的提議。
+accident	意外；車禍（n.）<br><br>He had a car accident.<br>他出了車禍。<br><br>by accident ＝ 意外地
+account	帳戶；帳號（n./v.）<br><br>I opened a bank account.<br>我開了一個銀行帳戶。
+active	活躍的；積極的（adj.）<br><br>She is an active player.<br>她是一個活躍的玩家。
+activity	活動（n.）<br><br>We have many activities this week.<br>我們這週有很多活動。
+actual	實際的（adj.）<br><br>What is the actual price?<br>實際的價格是多少？<br><br>actually ＝ 事實上
+addition	增加；加法（n.）<br><br>In addition, it is cheap.<br>此外，它很便宜。<br><br>in addition ＝ 此外
+address	地址；演說（v./n.）<br><br>What is your address?<br>你的地址是什麼？
+admit	承認（v.）<br><br>He admitted his mistake.<br>他承認了他的錯。
+adult	成年人（n./adj.）<br><br>Tickets for adults are 300 dollars.<br>成人票 300 元。
+advance	前進；進步（n./v.）<br><br>The army advanced at night.<br>軍隊在夜裡前進。<br><br>in advance ＝ 事先
+advice	建議（n.）<br><br>Can you give me some advice?<br>你能給我一些建議嗎？<br><br>動詞：advise
+affair	事情；事務（n.）<br><br>This is my own affair.<br>這是我自己的事。
+affect	影響（v.）<br><br>The rain affected the game.<br>雨影響了比賽。
+against	反對；靠著；對抗（prep.）<br><br>We played against a strong team.<br>我們跟一支強隊比賽。
+ahead	在前面；提前（adv.）<br><br>Go ahead.<br>請便／繼續。
+aid	幫助；援助（n./v.）<br><br>They sent aid to the city.<br>他們送援助物資到那座城市。<br><br>first aid ＝ 急救
+aim	目標；瞄準（n./v.）<br><br>Our aim is to win.<br>我們的目標是贏。
+aircraft	飛機（總稱）（n.）<br><br>The aircraft landed safely.<br>那架飛機安全降落。
+alarm	警報；鬧鐘（n./v.）<br><br>My alarm rings at six.<br>我的鬧鐘六點響。
+album	相簿；專輯（n.）<br><br>This is her new album.<br>這是她的新專輯。
+alike	相像的（adv./adj.）<br><br>The two brothers look alike.<br>那兩兄弟長得很像。
+alive	活著的（adj.）<br><br>The fish is still alive.<br>那條魚還活著。<br><br>相反：dead
+alone	單獨的、獨自（adv./adj.）<br><br>I live alone.<br>我一個人住。
+aloud	出聲地（adv.）<br><br>Read the story aloud.<br>把故事唸出來。
+altogether	總共；完全（adv.）<br><br>There are ten people altogether.<br>總共有十個人。
+among	在……之中（三者以上）（prep.）<br><br>He is the tallest among us.<br>他是我們之中最高的。<br><br>兩者之間用 between
+amount	數量；金額（n./v.）<br><br>A large amount of money.<br>一大筆錢。
+ancient	古代的（adj.）<br><br>This is an ancient city.<br>這是一座古城。
+anger	憤怒（n.）<br><br>He showed his anger.<br>他表現出憤怒。<br><br>形容詞：angry
+angle	角度（n.）<br><br>Look at it from another angle.<br>從另一個角度看。
+ankle	腳踝（n.）<br><br>I hurt my ankle.<br>我扭到腳踝。
+anytime	任何時候（adv.）<br><br>Call me anytime.<br>隨時打給我。
+anyway	無論如何；反正（adv.）<br><br>Thanks anyway.<br>還是謝謝你。
+anywhere/anyplace	任何地方（adv.）<br><br>You can sit anywhere.<br>你可以坐任何地方。
+ape	猿（n.）<br><br>An ape is like a big monkey.<br>猿就像一隻大猴子。
+appearance	外表；出現（n.）<br><br>Don't judge people by their appearance.<br>不要以貌取人。
+appetite	胃口（n.）<br><br>I have no appetite today.<br>我今天沒胃口。
+apply	申請；應用（v.）<br><br>I applied for a new job.<br>我申請了一份新工作。
+appreciate	感激；欣賞（v.）<br><br>I appreciate your help.<br>我很感謝你的幫忙。
+approach	接近；方法（n./v.）<br><br>The enemy approached the city.<br>敵人逼近城市。
+argue(argument)	爭論（v./(n.)）<br><br>They often argue about money.<br>他們常為錢爭吵。<br><br>argument ＝ 爭論（名詞）
+army	軍隊（n.）<br><br>The army is very strong.<br>那支軍隊非常強。
+arrange(ment)	安排（v./(n.)）<br><br>I will arrange a meeting.<br>我會安排一場會議。<br><br>arrangement ＝ 安排（名詞）
+arrival	抵達（n.）<br><br>The arrival time is 3 p.m.<br>抵達時間是下午三點。<br><br>動詞：arrive
+arrow	箭（n.）<br><br>He shot an arrow.<br>他射了一支箭。<br><br>注意：error 是「錯誤」
+article	文章；物品（n.）<br><br>I read an article about stocks.<br>我讀了一篇關於股票的文章。
+artist	藝術家（n.）<br><br>She is a famous artist.<br>她是一位有名的藝術家。
+asleep	睡著的（adj.）<br><br>The baby is asleep.<br>寶寶睡著了。<br><br>fall asleep ＝ 睡著
+attempt	嘗試（n./v.）<br><br>This is my first attempt.<br>這是我第一次嘗試。
+attend	參加；出席（v.）<br><br>I attended the meeting.<br>我參加了會議。
+attention	注意（n.）<br><br>Pay attention!<br>注意！<br><br>pay attention to ＝ 注意……
+author	作者（n./v.）<br><br>Who is the author of this book?<br>這本書的作者是誰？
+available	可用的；有空的（adj.）<br><br>Is this seat available?<br>這個座位可以坐嗎？
+average	平均（的）（adj./n./v.）<br><br>The average price is 100 dollars.<br>平均價格是 100 元。
+avoid	避免（v.）<br><br>Avoid eating too much sugar.<br>避免吃太多糖。
+backpack	背包（n./v.）<br><br>I carry a backpack to work.<br>我背背包上班。
+backward	向後的（adj.）<br><br>He took a step backward.<br>他往後退了一步。<br><br>也寫 backwards；相反：forward
+badminton	羽毛球（n.）<br><br>Let's play badminton.<br>我們來打羽毛球吧。
+bake	烘烤（v.）<br><br>She baked a cake.<br>她烤了一個蛋糕。
+bakery	麵包店（n.）<br><br>I bought bread at the bakery.<br>我在麵包店買了麵包。
+balance	平衡；餘額（n./v.）<br><br>Keep your balance.<br>保持平衡。
+balcony	陽台（n.）<br><br>We drink tea on the balcony.<br>我們在陽台喝茶。
+balloon	氣球（n.）<br><br>The child has a red balloon.<br>小孩拿著一顆紅氣球。
+bar	酒吧；條、棒（n./v.）<br><br>Let's go to a bar.<br>我們去酒吧吧。<br><br>a chocolate bar ＝ 一條巧克力
+barbecue	烤肉（n./v.）<br><br>We had a barbecue on the beach.<br>我們在海邊烤肉。<br><br>也寫 BBQ
+barber	理髮師（n.）<br><br>I go to the barber every month.<br>我每個月去理髮。
+bark	（狗）吠（n./v.）<br><br>The dog barks at strangers.<br>那隻狗會對陌生人吠。
+base	基地；底部（n./v.）<br><br>The army went back to the base.<br>軍隊回到基地。
+basic	基本的（adj.）<br><br>Learn the basic words first.<br>先學基本的字。
+basics	基礎（n.）<br><br>Let's start with the basics.<br>我們從基礎開始。
+basis	基礎；根據（n.）<br><br>On what basis?<br>根據什麼？<br><br>on a daily basis ＝ 每天
+bathe	洗澡；沐浴（v.）<br><br>She bathed the baby.<br>她幫寶寶洗澡。<br><br>名詞：bath
+battle	戰役（n./v.）<br><br>They won the battle.<br>他們贏了那場戰役。
+beard	鬍子（n.）<br><br>He has a long beard.<br>他有一把長鬍子。
+beat	打敗；打（v./n.）<br><br>We beat them 3 to 1.<br>我們 3 比 1 打敗他們。
+beauty	美麗；美人（n.）<br><br>The beauty of nature.<br>大自然之美。
+beer	啤酒（n.）<br><br>He drinks a beer after work.<br>他下班後喝一杯啤酒。
+beg	乞求（v.）<br><br>He begged for help.<br>他求救。
+beginner	初學者（n.）<br><br>I am a beginner at English.<br>我是英文初學者。
+behave	表現；守規矩（v.）<br><br>Behave yourself!<br>規矩點！
+being	存在；生物（n.）<br><br>a human being<br>一個人類
+belief	信念（n.）<br><br>He has a strong belief in God.<br>他對神有堅定的信仰。<br><br>動詞：believe
+bend	彎曲（v./n.）<br><br>Bend your knees.<br>彎曲膝蓋。<br><br>過去式 bent
+better	更好的（adj./adv./n./v.）<br><br>This one is better.<br>這個比較好。<br><br>good → better → best
+beyond	超過；在……之外（prep./adv.）<br><br>The castle is beyond the river.<br>城堡在河的另一邊。
+bill	帳單；鈔票（n./v.）<br><br>Can I have the bill, please?<br>請給我帳單。
+billion	十億（n.）<br><br>The city spent two billion dollars.<br>市政府花了 20 億元。
+birth	出生（n.）<br><br>What is your date of birth?<br>你的出生日期是？
+biscuit	餅乾（n.）<br><br>Have a biscuit with your tea.<br>配茶吃塊餅乾吧。
+bit	一點點（n.）<br><br>I am a bit tired.<br>我有點累。<br><br>a bit ＝ 一點點；也是 bite 的過去式
+blackboard	黑板（n.）<br><br>The teacher wrote on the blackboard.<br>老師在黑板上寫字。
+blame	責怪（v./n.）<br><br>Don't blame me.<br>不要怪我。
+blank	空白的（adj./n.）<br><br>Fill in the blanks.<br>填空。
+blanket	毯子（n./v.）<br><br>I need another blanket.<br>我需要另一條毯子。
+blood	血（n.）<br><br>He lost a lot of blood.<br>他失血很多。
+board	板子；董事會；登上（n./v.）<br><br>Please board the plane now.<br>請現在登機。
+boil	煮沸（n./v.）<br><br>Boil the water first.<br>先把水煮開。
+bone	骨頭（n.）<br><br>The dog is eating a bone.<br>狗在啃骨頭。
+bookstore	書店（n.）<br><br>I bought it at a bookstore.<br>我在書店買的。
+border	邊界（n./v.）<br><br>They closed the border.<br>他們封鎖了邊境。
+bother	打擾；煩惱（v./n.）<br><br>Sorry to bother you.<br>抱歉打擾你。
+brain	大腦（n.）<br><br>Use your brain!<br>動動腦！
+branch	樹枝；分公司（n./v.）<br><br>The bank has a branch here.<br>那家銀行在這裡有分行。
+brand	品牌（n.）<br><br>What brand is your phone?<br>你的手機是什麼牌子？
+brief	簡短的（adj./n./v.）<br><br>Please keep it brief.<br>請簡短一點。
+brilliant	傑出的；明亮的（adj.）<br><br>That's a brilliant idea!<br>那是個絕妙的主意！
+broad	寬的；廣泛的（adj.）<br><br>The river is broad.<br>這條河很寬。
+brush	刷子；刷（n./v.）<br><br>Brush your teeth.<br>刷牙。
+building	建築物（n.）<br><br>That is a tall building.<br>那是一棟高樓。
+bun	小圓麵包（n.）<br><br>I had a bun for breakfast.<br>我早餐吃了一個小餐包。
+burden	負擔（n./v.）<br><br>I don't want to be a burden.<br>我不想成為負擔。
+burn	燃燒；燒傷（v./n.）<br><br>The house is burning!<br>房子在燒！
+burst	爆裂（n./v.）<br><br>The balloon burst.<br>氣球爆了。
+businessman	商人（n.）<br><br>He is a rich businessman.<br>他是一位有錢的商人。
+cabbage	高麗菜（n.）<br><br>I bought a cabbage.<br>我買了一顆高麗菜。
+cafe	咖啡廳（n.）<br><br>Let's meet at the cafe.<br>我們在咖啡廳碰面。
+cage	籠子（n./v.）<br><br>The bird is in a cage.<br>鳥在籠子裡。
+calendar	日曆（n.）<br><br>Mark the date on the calendar.<br>在日曆上標記日期。
+camel	駱駝（n.）<br><br>Camels live in the desert.<br>駱駝住在沙漠。
+cancel	取消（v.）<br><br>The game was canceled.<br>比賽取消了。
+cancer	癌症（n.）<br><br>He died of cancer.<br>他死於癌症。
+candle	蠟燭（n.）<br><br>Light the candles.<br>點蠟燭。
+capital	首都；資本（n./adj.）<br><br>Taipei is the capital of Taiwan.<br>台北是台灣的首都。
+cartoon	卡通（n./v.）<br><br>Kids love cartoons.<br>小孩喜歡卡通。
+cash	現金（n./v.）<br><br>Can I pay in cash?<br>我可以付現金嗎？
+castle	城堡（n.）<br><br>The king lives in a castle.<br>國王住在城堡裡。
+cause	原因；導致（n./v.）<br><br>What caused the fire?<br>是什麼引起了火災？
+ceiling	天花板（n.）<br><br>The ceiling is very high.<br>天花板很高。
+cell	細胞；牢房（n.）<br><br>Our body has many cells.<br>我們的身體有很多細胞。
+centimeter	公分（n.）<br><br>It is ten centimeters long.<br>它長十公分。
+central	中央的（adj.）<br><br>The hotel is in central Taipei.<br>飯店在台北市中心。
+century	世紀（n.）<br><br>This castle is five centuries old.<br>這座城堡有五百年歷史。
+cereal	麥片；穀物（n.）<br><br>I eat cereal for breakfast.<br>我早餐吃麥片。
+chain	鏈子；連鎖（n./v.）<br><br>It is a chain store.<br>那是一家連鎖店。
+chalk	粉筆（n./v.）<br><br>The teacher writes with chalk.<br>老師用粉筆寫字。
+challenge	挑戰（n./v.）<br><br>This game is a big challenge.<br>這個遊戲是很大的挑戰。
+channel	頻道（n./v.）<br><br>What channel is the game on?<br>比賽在哪一台？
+chapter	章（n.）<br><br>Read chapter two.<br>讀第二章。
+character	角色；性格（n.）<br><br>Who is your favorite character?<br>你最喜歡的角色是誰？
+charge	收費；充電；指控（n./v.）<br><br>I need to charge my phone.<br>我需要幫手機充電。
+chart	圖表（n.）<br><br>Look at this chart.<br>看這張圖表。
+chase	追趕（n./v.）<br><br>The dog chased the cat.<br>狗追著貓跑。
+cheat	作弊；欺騙（v./n.）<br><br>Don't cheat on the test.<br>考試不要作弊。
+cheer	歡呼；加油（v./n.）<br><br>The fans cheered for the team.<br>粉絲為隊伍歡呼。<br><br>cheer up ＝ 打起精神
+chemical	化學的；化學物質（adj./n.）<br><br>Don't touch the chemicals.<br>不要碰那些化學物質。
+chess	西洋棋（n.）<br><br>Do you play chess?<br>你下西洋棋嗎？
+chief	主要的；首領（adj./n.）<br><br>He is the chief of police.<br>他是警察局長。
+childhood	童年（n.）<br><br>I had a happy childhood.<br>我有一個快樂的童年。
+childish	幼稚的（adj.）<br><br>Don't be childish.<br>別幼稚了。
+china	瓷器（n.）<br><br>These plates are made of china.<br>這些盤子是瓷做的。<br><br>大寫 China ＝ 中國
+chopstick(s)	筷子（n.）<br><br>I eat with chopsticks.<br>我用筷子吃飯。<br><br>通常用複數 chopsticks
+claim	聲稱；要求（n./v.）<br><br>He claimed the land was his.<br>他聲稱那塊地是他的。
+clap	拍手（v./n.）<br><br>Everyone clapped.<br>大家都鼓掌。
+classic	經典的（adj./n.）<br><br>This is a classic game.<br>這是一款經典遊戲。
+classical	古典的（adj.）<br><br>I like classical music.<br>我喜歡古典音樂。
+classmate	同學（n.）<br><br>He was my classmate.<br>他是我的同學。
+clever	聰明的（adj.）<br><br>What a clever plan!<br>多聰明的計畫！<br><br>同義：smart
+click	點擊（v./n.）<br><br>Click the button.<br>點擊按鈕。
+climate	氣候（n.）<br><br>Taiwan has a warm climate.<br>台灣氣候溫暖。
+cloth	布（n.）<br><br>Clean it with a soft cloth.<br>用軟布擦乾淨。<br><br>clothes ＝ 衣服
+clothing	衣物（總稱）（n.）<br><br>This store sells clothing.<br>這家店賣衣服。
+cloudy	多雲的（adj.）<br><br>It's cloudy today.<br>今天多雲。
+coal	煤（n.）<br><br>They burn coal for heat.<br>他們燒煤取暖。
+coast	海岸（n.）<br><br>We drove along the coast.<br>我們沿著海岸開車。
+cockroach/roach	蟑螂（n.）<br><br>I saw a cockroach in the kitchen.<br>我在廚房看到一隻蟑螂。
+cocoa	可可（n.）<br><br>A cup of hot cocoa, please.<br>請給我一杯熱可可。
+coin	硬幣（n./v.）<br><br>I have some coins in my pocket.<br>我口袋裡有些硬幣。
+cola/Coke	可樂（n.）<br><br>I want a cola.<br>我要一杯可樂。
+college	大學、學院（n.）<br><br>He goes to college.<br>他在念大學。
+comb	梳子；梳（n./v.）<br><br>Comb your hair.<br>梳頭髮。<br><br>b 不發音
+combine	結合（v.）<br><br>Combine the two plans.<br>把兩個計畫結合起來。
+comic(s)	漫畫；好笑的（adj./n.）<br><br>I like reading comics.<br>我喜歡看漫畫。
+command	命令；指揮（n./v.）<br><br>The general gave a command.<br>將軍下了一道命令。
+commercial	商業的；廣告（adj./n.）<br><br>I don't like TV commercials.<br>我不喜歡電視廣告。
+company	公司；陪伴（n.）<br><br>He works for a big company.<br>他在一家大公司工作。
+compare	比較（v.）<br><br>Compare the two phones.<br>比較這兩支手機。
+complete	完成；完整的（adj./v.）<br><br>I completed the task.<br>我完成了任務。
+complex	複雜的（adj./n.）<br><br>This problem is complex.<br>這個問題很複雜。
+concern	擔心；關心（n./v.）<br><br>Thank you for your concern.<br>謝謝你的關心。
+conclude	下結論；結束（v.）<br><br>He concluded that it was safe.<br>他下結論說那是安全的。<br><br>名詞：conclusion
+condition	狀況；條件（n./v.）<br><br>The car is in good condition.<br>這台車狀況很好。
+confident	有自信的（adj.）<br><br>She is confident.<br>她很有自信。
+conflict	衝突（n./v.）<br><br>There is a conflict between the two countries.<br>兩國之間有衝突。
+congratulation(s)	恭喜（n.）<br><br>Congratulations on your new job!<br>恭喜你找到新工作！<br><br>通常用複數 congratulations
+connection	連接；關係（n.）<br><br>The internet connection is slow.<br>網路連線很慢。
+consider	考慮（v.）<br><br>I will consider your idea.<br>我會考慮你的想法。
+consideration	考慮；體貼（n.）<br><br>Thank you for your consideration.<br>謝謝你的考慮。
+contact	聯絡；接觸（n./v.）<br><br>Please contact me by email.<br>請用 email 跟我聯絡。
+contain	包含（v.）<br><br>This drink contains sugar.<br>這飲料含糖。
+continue	繼續（v.）<br><br>Please continue.<br>請繼續。
+contract	合約（n./v.）<br><br>He signed the contract.<br>他簽了合約。
+control	控制（n./v.）<br><br>Control your anger.<br>控制你的脾氣。
+conversation	對話（n.）<br><br>We had a long conversation.<br>我們聊了很久。
+corn	玉米（n.）<br><br>I like corn soup.<br>我喜歡玉米濃湯。
+countryside	鄉下（n.）<br><br>We live in the countryside.<br>我們住在鄉下。
+couple	一對；夫妻（n./v.）<br><br>They are a nice couple.<br>他們是很登對的一對。<br><br>a couple of ＝ 幾個
+courage	勇氣（n.）<br><br>It takes courage to say no.<br>說不需要勇氣。
+court	法院；球場（n.）<br><br>They went to court.<br>他們上法院了。
+cowboy	牛仔（n.）<br><br>The cowboy rides a horse.<br>牛仔騎著馬。
+crayon	蠟筆（n.）<br><br>The child draws with crayons.<br>小孩用蠟筆畫畫。
+cream	奶油；乳霜（n./adj.）<br><br>Do you want cream in your coffee?<br>咖啡要加奶精嗎？
+create	創造（v.）<br><br>He created a new game.<br>他創造了一款新遊戲。
+crime	犯罪（n.）<br><br>Crime is low in this city.<br>這座城市犯罪率低。
+crisis	危機（n.）<br><br>The country is in a crisis.<br>這個國家陷入危機。
+crow	烏鴉（n.）<br><br>A crow is a black bird.<br>烏鴉是一種黑色的鳥。
+crowd	人群（n./v.）<br><br>There was a big crowd.<br>有一大群人。
+cultural	文化的（adj.）<br><br>We visited a cultural center.<br>我們參觀了文化中心。
+culture	文化（n.）<br><br>I like Japanese culture.<br>我喜歡日本文化。
+cure	治癒；療法（n./v.）<br><br>There is no cure for this disease.<br>這種病沒有治療方法。<br><br>注意：cute 是「可愛的」
+curious	好奇的（adj.）<br><br>Children are curious.<br>小孩很好奇。
+current	目前的；水流（adj./n.）<br><br>What is the current price?<br>目前價格是多少？
+curtain	窗簾（n./v.）<br><br>Close the curtains.<br>拉上窗簾。
+custom	習俗（n.）<br><br>It is a local custom.<br>這是當地習俗。<br><br>customs ＝ 海關
+customer	顧客（n.）<br><br>The customer is always right.<br>顧客永遠是對的。
+cycle	循環；騎腳踏車（n./v.）<br><br>The water cycle.<br>水循環。
+daily	每天的（adj./adv./n.）<br><br>This is my daily routine.<br>這是我每天的例行公事。
+damage	損害（n./v.）<br><br>The storm damaged the roof.<br>暴風雨損壞了屋頂。
+dancer	舞者（n.）<br><br>She is a dancer.<br>她是一名舞者。
+danger	危險（n.）<br><br>Danger! Keep out!<br>危險！請勿進入！<br><br>形容詞：dangerous
+data	資料、數據（n.）<br><br>We need more data.<br>我們需要更多資料。
+deaf	聾的（adj.）<br><br>He is deaf.<br>他聽不見。
+debate	辯論（n./v.）<br><br>We had a debate about it.<br>我們針對它進行了辯論。
+debt	債務（n.）<br><br>He has a lot of debt.<br>他欠很多債。<br><br>b 不發音
+decision	決定（n.）<br><br>It was a hard decision.<br>那是一個很難的決定。<br><br>動詞：decide
+deer	鹿（n.）<br><br>We saw a deer in the forest.<br>我們在森林裡看到一隻鹿。<br><br>複數也是 deer
+degree	度；學位（n.）<br><br>It is 30 degrees today.<br>今天 30 度。
+delay	延遲（n./v.）<br><br>The flight was delayed.<br>班機延誤了。
+delicious	好吃的（adj.）<br><br>This cake is delicious.<br>這個蛋糕很好吃。
+deliver	運送（v.）<br><br>They deliver food.<br>他們有外送食物。
+delivery	運送；外送（n.）<br><br>Free delivery!<br>免運費！
+dentist	牙醫（n.）<br><br>I need to see a dentist.<br>我需要去看牙醫。
+deny	否認（v.）<br><br>He denied it.<br>他否認了。
+department	部門；（百貨）部（n.）<br><br>He works in the sales department.<br>他在業務部工作。<br><br>department store ＝ 百貨公司
+depend	依賴；取決於（v.）<br><br>It depends on the weather.<br>要看天氣。<br><br>depend on ＝ 取決於、依靠
+depth	深度（n.）<br><br>What is the depth of the lake?<br>這座湖有多深？<br><br>形容詞：deep
+describe	描述（v.）<br><br>Describe the man.<br>描述一下那個男人。
+description	描述（n.）<br><br>Give me a description.<br>給我一個描述。
+desert	沙漠；拋棄（n./v.）<br><br>The desert is hot and dry.<br>沙漠又熱又乾。<br><br>注意：dessert 是「甜點」
+design	設計（n./v.）<br><br>I like the design of this phone.<br>我喜歡這支手機的設計。
+detail	細節（n./v.）<br><br>Tell me the details.<br>告訴我細節。
+develop(ment)	發展；開發（v./(n.)）<br><br>They developed a new game.<br>他們開發了一款新遊戲。<br><br>development ＝ 發展（名詞）
+dial	撥號（n./v.）<br><br>Dial 119.<br>撥 119。
+dialogue	對話（n.）<br><br>Read the dialogue.<br>讀這段對話。
+diamond	鑽石（n.）<br><br>She has a diamond ring.<br>她有一枚鑽戒。
+diary	日記（n.）<br><br>I write a diary every day.<br>我每天寫日記。
+diet	飲食；節食（n./v.）<br><br>I am on a diet.<br>我在節食。
+difference	差別（n.）<br><br>What is the difference?<br>有什麼差別？
+difficulty	困難（n.）<br><br>I had difficulty finding it.<br>我很難找到它。
+direct	直接的；指導（adj./v./adv.）<br><br>Is there a direct flight?<br>有直飛的班機嗎？
+direction	方向（n.）<br><br>Which direction is north?<br>哪個方向是北方？
+director	導演；主管（n.）<br><br>He is a movie director.<br>他是電影導演。
+disagree(ment)	不同意（v./(n.)）<br><br>I disagree with you.<br>我不同意你。<br><br>disagreement ＝ 意見不合
+disappear	消失（v.）<br><br>The cat disappeared.<br>貓不見了。<br><br>相反：appear
+discover	發現（v.）<br><br>They discovered gold.<br>他們發現了黃金。
+discovery	發現（名詞）（n.）<br><br>It was a big discovery.<br>那是一個重大發現。
+discuss	討論（v.）<br><br>Let's discuss the plan.<br>我們來討論計畫。
+discussion	討論（名詞）（n.）<br><br>We had a long discussion.<br>我們討論了很久。
+disease	疾病（n.）<br><br>Heart disease is common.<br>心臟病很常見。
+display	展示（n./v.）<br><br>The phones are on display.<br>手機在展示中。
+distance	距離（n.）<br><br>What is the distance from here?<br>離這裡多遠？
+distant	遙遠的（adj.）<br><br>a distant country<br>一個遙遠的國家
+divide	分開；除（v./n.）<br><br>Divide the cake into four parts.<br>把蛋糕分成四份。
+division	分割；部門；除法（n.）<br><br>He works in a different division.<br>他在不同的部門工作。
+domestic	國內的；家庭的（adj.）<br><br>a domestic flight<br>國內航班
+dot	點（n./v.）<br><br>There is a red dot on the map.<br>地圖上有一個紅點。
+double	兩倍的（adj./v./n./adv.）<br><br>The price doubled.<br>價格翻倍了。
+doubt	懷疑（n./v.）<br><br>I doubt it.<br>我很懷疑。<br><br>b 不發音
+dove	鴿子（n.）<br><br>The dove is a symbol of peace.<br>鴿子是和平的象徵。
+download	下載（v.）<br><br>Download the app.<br>下載這個 app。<br><br>相反：upload
+downstairs	在樓下（adv./n./adj.）<br><br>He is downstairs.<br>他在樓下。
+dragon	龍（n.）<br><br>The dragon breathed fire.<br>龍噴出火焰。
+drama	戲劇（n.）<br><br>I like Korean dramas.<br>我喜歡韓劇。
+drawer	抽屜（n.）<br><br>The key is in the drawer.<br>鑰匙在抽屜裡。
+drawing	圖畫（n.）<br><br>This is a nice drawing.<br>這是一幅很棒的畫。
+drug	藥；毒品（n./v.）<br><br>Don't take drugs.<br>不要吸毒。
+dryer	烘乾機；吹風機（n.）<br><br>Put the clothes in the dryer.<br>把衣服放進烘乾機。
+due	到期的；預定的（adj./adv./n.）<br><br>The report is due tomorrow.<br>報告明天要交。<br><br>due to ＝ 因為
+dull	無聊的；鈍的（adj./v.）<br><br>The movie was dull.<br>這部電影很無聊。
+duty	責任；義務（n.）<br><br>It is my duty.<br>這是我的責任。
+eagle	老鷹（n.）<br><br>The eagle flew high.<br>老鷹飛得很高。
+earn	賺（v.）<br><br>He earns a lot of money.<br>他賺很多錢。
+earring(s)	耳環（n.）<br><br>She wears gold earrings.<br>她戴金耳環。
+earthquake	地震（n.）<br><br>There was an earthquake last night.<br>昨晚有地震。
+ease	容易；減輕（n./v.）<br><br>He did it with ease.<br>他輕鬆做到了。
+eastern	東方的（adj.）<br><br>eastern Taiwan<br>台灣東部
+edge	邊緣（n./v.）<br><br>Don't stand near the edge.<br>不要站在邊緣附近。
+edition	版本（n.）<br><br>This is the new edition.<br>這是新版本。
+education	教育（n.）<br><br>Education is important.<br>教育很重要。
+effect	效果；影響（n./v.）<br><br>The medicine has no effect.<br>這個藥沒效。<br><br>注意：affect 是動詞「影響」
+effective	有效的（adj.）<br><br>This is an effective method.<br>這是一個有效的方法。
+effort	努力（n.）<br><br>Thank you for your effort.<br>謝謝你的努力。
+elder	年長的（n./adj.）<br><br>my elder brother<br>我哥哥
+electric	電動的（adj.）<br><br>an electric car<br>一台電動車
+electrical	電的；電氣的（adj.）<br><br>electrical problems<br>電路問題
+emotion	情緒（n.）<br><br>He showed no emotion.<br>他面無表情。
+emphasize	強調（v.）<br><br>He emphasized the danger.<br>他強調了危險性。
+employ(ment)	雇用（v./(n.)）<br><br>The company employs 100 workers.<br>這家公司雇用 100 名員工。<br><br>employment ＝ 就業、雇用
+employee	員工（n.）<br><br>He is a new employee.<br>他是新員工。
+employer	雇主（n.）<br><br>My employer is very kind.<br>我的雇主人很好。
+empty	空的（adj./v.）<br><br>The box is empty.<br>箱子是空的。<br><br>相反：full
+encourage(ment)	鼓勵（v./(n.)）<br><br>My father encouraged me.<br>我爸鼓勵我。<br><br>encouragement ＝ 鼓勵（名詞）
+ending	結局（n.）<br><br>I like the ending.<br>我喜歡這個結局。
+enemy	敵人（n.）<br><br>The enemy is coming!<br>敵人來了！
+energy	能量；精力（n.）<br><br>I have no energy today.<br>我今天沒精神。
+engine	引擎（n.）<br><br>The engine won't start.<br>引擎發不動。
+entire	整個的（adj.）<br><br>I spent the entire day at home.<br>我整天都待在家。
+entrance	入口（n.）<br><br>Meet me at the entrance.<br>在入口跟我碰面。<br><br>相反：exit
+environment	環境（n.）<br><br>Protect the environment.<br>保護環境。
+environmental	環境的（adj.）<br><br>environmental problems<br>環境問題
+equal	相等的；平等的（adj./v./n.）<br><br>All people are equal.<br>人人平等。
+escape	逃走（v./n.）<br><br>The prisoner escaped.<br>囚犯逃走了。
+especially	特別是（adv.）<br><br>I like fruit, especially apples.<br>我喜歡水果，尤其是蘋果。
+essay	短文、論文（n.）<br><br>Write an essay about your family.<br>寫一篇關於你家人的短文。
+eve	前夕（n.）<br><br>Christmas Eve<br>聖誕夜
+event	事件；活動（n.）<br><br>It was a big event.<br>那是一個大活動。
+evil	邪惡（的）（n./adj.）<br><br>The evil king.<br>邪惡的國王。
+exact	確切的（adj.）<br><br>What is the exact time?<br>確切的時間是幾點？<br><br>exactly ＝ 正是
+examination/exam	考試；檢查（n.）<br><br>I passed the examination.<br>我通過考試了。<br><br>常簡稱 exam
+examine	檢查（v.）<br><br>The doctor examined me.<br>醫生幫我做了檢查。
+excite(ment)	使興奮（v./(n.)）<br><br>The news excited everyone.<br>這個消息讓大家很興奮。<br><br>excitement ＝ 興奮（名詞）
+excuse	藉口；原諒（v./n.）<br><br>Excuse me.<br>不好意思／借過。
+exist	存在（v.）<br><br>Do ghosts exist?<br>鬼存在嗎？
+existence	存在（名詞）（n.）<br><br>the existence of God<br>神的存在
+exit	出口（n./v.）<br><br>Where is the exit?<br>出口在哪？
+expense	費用（n.）<br><br>Travel expenses are high.<br>旅費很高。<br><br>形容詞：expensive
+expert	專家（n./adj.）<br><br>He is an expert in history.<br>他是歷史專家。
+express	表達；快車（v./adj./adv./n.）<br><br>It is hard to express my feelings.<br>很難表達我的感受。
+expression	表達；表情（n.）<br><br>What a funny expression!<br>好好笑的表情！
+extra	額外的（adj./adv./n.）<br><br>I need extra time.<br>我需要額外的時間。
+eyebrow/brow	眉毛（n.）<br><br>She has thick eyebrows.<br>她的眉毛很濃。
+factor	因素（n.）<br><br>Money is an important factor.<br>錢是一個重要因素。
+failure	失敗（n.）<br><br>Failure is the mother of success.<br>失敗為成功之母。<br><br>動詞：fail
+fair	公平的；市集（adj./n./adv.）<br><br>That's not fair!<br>那不公平！
+false	錯誤的；假的（adj.）<br><br>Is it true or false?<br>是對還是錯？<br><br>相反：true
+fashion	時尚；流行（n./v.）<br><br>She likes fashion.<br>她喜歡時尚。
+fate	命運（n.）<br><br>It was fate.<br>那是命運。
+fault	過錯（n./v.）<br><br>It's not my fault.<br>不是我的錯。
+favor	幫忙；恩惠（n./v.）<br><br>Can you do me a favor?<br>你可以幫我一個忙嗎？
+favorite	最喜歡的（adj./n.）<br><br>What is your favorite game?<br>你最喜歡的遊戲是什麼？
+fear	恐懼；害怕（n./v.）<br><br>He has no fear.<br>他無所畏懼。
+feature	特色；功能（n./v.）<br><br>This phone has many features.<br>這支手機有很多功能。
+fee	費用（n.）<br><br>The fee is 100 dollars.<br>費用是 100 元。
+feeling	感覺（n.）<br><br>I have a bad feeling.<br>我有不好的預感。
+fellow	同伴；傢伙（n.）<br><br>my fellow soldiers<br>我的戰友們
+female	女性（的）（adj./n.）<br><br>a female doctor<br>一位女醫生<br><br>相反：male
+fever	發燒（n.）<br><br>I have a fever.<br>我發燒了。
+field	田野；領域；場地（n.）<br><br>He is an expert in this field.<br>他是這個領域的專家。
+figure	數字；人物；身材（n./v.）<br><br>The figures look good.<br>數字看起來不錯。<br><br>figure out ＝ 想出、理解
+final	最後的；決賽（adj./n.）<br><br>This is the final chapter.<br>這是最後一章。
+fireman/firewoman	消防員（n.）<br><br>The fireman saved the child.<br>消防員救了那個孩子。<br><br>也說 firefighter
+firm	公司；堅定的（n./adj./v./adv.）<br><br>He works for a law firm.<br>他在一家律師事務所工作。
+fisherman	漁夫（n.）<br><br>The fisherman caught a big fish.<br>漁夫抓到一條大魚。
+fit	合身；適合；健康的（v./adj./n./adv.）<br><br>These shoes don't fit.<br>這雙鞋不合腳。
+fix	修理（v./n.）<br><br>Can you fix my bike?<br>你能修我的腳踏車嗎？
+flag	旗子（n.）<br><br>The flag is red and white.<br>那面旗子是紅白色的。
+flat	平的；公寓（adj./adv./n.）<br><br>The land is flat.<br>這片地很平。
+flight	班機；飛行（n.）<br><br>My flight is at 8 a.m.<br>我的班機在早上八點。
+flow	流動（n./v.）<br><br>The river flows to the sea.<br>河流向大海。
+flu	流感（n.）<br><br>I have the flu.<br>我得了流感。
+focus	專注；焦點（n./v.）<br><br>Focus on your work.<br>專心工作。
+fog	霧（n./v.）<br><br>There is heavy fog this morning.<br>今天早上霧很大。
+folk	人們；民間的（n.）<br><br>folk music<br>民謠
+following	下列的；接下來的（adj./prep./n.）<br><br>Answer the following questions.<br>回答下列問題。
+foolish	愚蠢的（adj.）<br><br>It was a foolish idea.<br>那是個愚蠢的想法。
+football	足球；美式足球（n.）<br><br>Let's play football.<br>我們來踢足球吧。
+force	力量；強迫（n./v.）<br><br>They forced him to leave.<br>他們逼他離開。<br><br>air force ＝ 空軍
+forest	森林（n.）<br><br>They got lost in the forest.<br>他們在森林裡迷路了。
+forgive	原諒（v.）<br><br>Please forgive me.<br>請原諒我。<br><br>過去式 forgave
+form	形式；表格；形成（n./v.）<br><br>Fill out this form.<br>填寫這張表格。
+formal	正式的（adj.）<br><br>This is a formal meeting.<br>這是正式會議。
+former	以前的（adj.）<br><br>He is a former soldier.<br>他以前是軍人。
+forth	向前（adv.）<br><br>back and forth<br>來來回回
+forward	向前（adj./n./v.）<br><br>Move forward.<br>往前走。<br><br>相反：backward
+found	創立（v.）<br><br>He founded the company in 2010.<br>他在 2010 年創立了這家公司。<br><br>也是 find 的過去式
+fox	狐狸（n.）<br><br>The fox is clever.<br>狐狸很聰明。
+freedom	自由（n.）<br><br>They fought for freedom.<br>他們為自由而戰。
+friendship	友誼（n.）<br><br>Our friendship is important.<br>我們的友誼很重要。
+fries	薯條（n.）<br><br>I want a burger and fries.<br>我要一個漢堡和薯條。
+fry	油炸（v./n.）<br><br>Fry the fish.<br>把魚炸一炸。
+function	功能（n./v.）<br><br>What is the function of this button?<br>這個按鈕有什麼功能？
+furniture	家具（n.）<br><br>We bought new furniture.<br>我們買了新家具。<br><br>不可數
+further	更進一步的（adv./adj./v.）<br><br>For further information, call us.<br>欲知更多資訊，請來電。
+gain	獲得；增加（v./n.）<br><br>I gained two kilos.<br>我胖了兩公斤。
+garbage	垃圾（n.）<br><br>Take out the garbage.<br>把垃圾拿出去。
+gardener	園丁（n.）<br><br>The gardener cut the grass.<br>園丁剪了草。
+garlic	大蒜（n.）<br><br>Add some garlic.<br>加點大蒜。
+gather	聚集（v.）<br><br>People gathered in the square.<br>人們聚集在廣場。
+general	一般的；將軍（adj./n.）<br><br>The general led the army.<br>將軍帶領軍隊。<br><br>in general ＝ 一般來說
+generous	慷慨的（adj.）<br><br>He is generous with money.<br>他對錢很大方。
+gentle	溫和的（adj.）<br><br>She has a gentle voice.<br>她的聲音很溫柔。
+gentleman	紳士（n.）<br><br>Ladies and gentlemen.<br>各位女士先生。
+giraffe	長頸鹿（n.）<br><br>The giraffe has a long neck.<br>長頸鹿脖子很長。
+glue	膠水（n./v.）<br><br>I need some glue.<br>我需要一些膠水。
+goal	目標；球門（n.）<br><br>My goal is to score 900.<br>我的目標是考 900 分。
+goat	山羊（n.）<br><br>The goat is eating grass.<br>山羊在吃草。
+gold	金子（n./adj.）<br><br>The king has a lot of gold.<br>國王有很多黃金。<br><br>gold mine ＝ 金礦
+golden	金色的（adj.）<br><br>She has golden hair.<br>她有一頭金髮。
+goose	鵝（n.）<br><br>There is a goose by the lake.<br>湖邊有一隻鵝。<br><br>複數 geese
+govern	統治；治理（v.）<br><br>The king governs the country.<br>國王治理這個國家。
+government	政府（n.）<br><br>The government will build a new road.<br>政府要蓋一條新路。
+gradual	逐漸的（adj.）<br><br>a gradual change<br>逐漸的改變<br><br>gradually ＝ 逐漸地
+grain	穀物；顆粒（n.）<br><br>Rice is a grain.<br>米是一種穀物。
+gram	公克（n.）<br><br>100 grams of sugar<br>100 公克的糖
+grand	宏偉的；盛大的（adj.）<br><br>a grand palace<br>一座宏偉的宮殿
+grape	葡萄（n.）<br><br>I like grapes.<br>我喜歡葡萄。
+greet	打招呼（v.）<br><br>He greeted me with a smile.<br>他微笑著跟我打招呼。
+growth	成長（n.）<br><br>Sales growth was 5% this year.<br>今年營收成長 5%。<br><br>動詞：grow
+guard	守衛；保護（n./v.）<br><br>The guards stood at the gate.<br>守衛站在門口。
+guava	芭樂（n.）<br><br>Guavas are cheap in Taiwan.<br>芭樂在台灣很便宜。
+guest	客人（n.）<br><br>We have guests tonight.<br>今晚我們有客人。
+guide	導遊；指南；引導（n./v.）<br><br>Our guide speaks English.<br>我們的導遊會說英文。
+gun	槍（n./v.）<br><br>The soldier has a gun.<br>那個士兵有槍。
+gymnasium/gym	體育館（n.）<br><br>We play basketball in the gymnasium.<br>我們在體育館打籃球。<br><br>常簡稱 gym
+haircut	理髮（n.）<br><br>I need a haircut.<br>我需要剪頭髮。
+hall	大廳；禮堂（n.）<br><br>Meet me in the hall.<br>在大廳跟我碰面。
+hamburger/burger	漢堡（n.）<br><br>I want a hamburger.<br>我要一個漢堡。<br><br>也說 burger
+handle	處理；把手（v./n.）<br><br>I can handle it.<br>我可以處理。
+handsome	英俊的（adj.）<br><br>He is tall and handsome.<br>他又高又帥。
+hardly	幾乎不（adv.）<br><br>I can hardly hear you.<br>我幾乎聽不到你說話。<br><br>注意：不是「努力地」
+heaven	天堂（n.）<br><br>She is in heaven now.<br>她現在在天堂了。
+hero/heroine	英雄（n.）<br><br>He is a hero.<br>他是一位英雄。<br><br>女英雄：heroine
+highly	高度地、非常（adv.）<br><br>I highly recommend it.<br>我非常推薦它。
+highway	公路（n.）<br><br>Take the highway.<br>走公路。
+hike	健行（n./v.）<br><br>We went hiking.<br>我們去健行了。
+hip	臀部、髖部（n.）<br><br>She hurt her hip.<br>她傷到髖部。
+historical	歷史的（adj.）<br><br>This is a historical building.<br>這是一棟歷史建築。
+hole	洞（n.）<br><br>There is a hole in my sock.<br>我的襪子破了一個洞。
+hop	單腳跳（v./n.）<br><br>The rabbit hopped away.<br>兔子跳走了。
+host/hostess	主人；主持人（n.）<br><br>He is the host of the party.<br>他是派對的主人。<br><br>女主人：hostess
+huge	巨大的（adj.）<br><br>The castle is huge.<br>城堡非常大。
+human	人類（的）（adj./n.）<br><br>Humans need water.<br>人類需要水。
+humble	謙虛的（adj.）<br><br>He is rich but humble.<br>他很有錢但很謙虛。
+hunt	打獵（v./n.）<br><br>They hunt deer.<br>他們獵鹿。
+hunter	獵人（n.）<br><br>The hunter has a gun.<br>獵人有一把槍。
+hurry	趕快（v./n.）<br><br>Hurry up!<br>快點！<br><br>in a hurry ＝ 匆忙
+ideal	理想的（adj./n.）<br><br>This is the ideal place.<br>這是理想的地方。
+identity	身分（n.）<br><br>Show me your identity card.<br>出示你的身分證。
+ignore	忽視（v.）<br><br>Don't ignore me.<br>不要不理我。
+ill	生病的（adj./adv./n.）<br><br>He is ill.<br>他生病了。<br><br>同義：sick
+image	形象；圖像（n.）<br><br>The company has a good image.<br>這家公司形象很好。
+imagine	想像（v.）<br><br>Imagine you are a king.<br>想像你是一位國王。
+importance	重要性（n.）<br><br>the importance of health<br>健康的重要性
+impressive	令人印象深刻的（adj.）<br><br>His work is impressive.<br>他的作品令人印象深刻。
+improve(ment)	改善、進步（v./(n.)）<br><br>My English is improving.<br>我的英文在進步。<br><br>improvement ＝ 改善（名詞）
+include	包括（v.）<br><br>The price includes breakfast.<br>價格包含早餐。
+income	收入（n.）<br><br>His income is high.<br>他的收入很高。
+increase	增加（v./n.）<br><br>Prices increased this year.<br>今年價格上漲了。<br><br>相反：decrease
+indeed	確實（adv.）<br><br>It is indeed a good idea.<br>這確實是個好主意。
+independence	獨立（n.）<br><br>The country won its independence.<br>這個國家贏得了獨立。
+independent	獨立的（adj.）<br><br>She is very independent.<br>她很獨立。
+indicate	指出；表示（v.）<br><br>The data indicates a problem.<br>資料顯示有一個問題。
+individual	個人（的）（adj./n.）<br><br>Each individual is different.<br>每個人都不一樣。
+industry	產業；工業（n.）<br><br>He works in the game industry.<br>他在遊戲產業工作。
+influence	影響（n./v.）<br><br>He has a big influence on me.<br>他對我影響很大。
+ink	墨水（n./v.）<br><br>Write in black ink.<br>用黑色墨水寫。
+insist	堅持（v.）<br><br>He insisted on paying.<br>他堅持要付錢。
+instance	例子（n.）<br><br>for instance<br>例如<br><br>同義：for example
+instant	立即的；即溶的（adj./n.）<br><br>instant noodles<br>泡麵
+instead	代替；反而（adv.）<br><br>Let's drink tea instead.<br>我們改喝茶吧。<br><br>instead of ＝ 代替……
+instruction	指示；說明（n.）<br><br>Read the instructions first.<br>先讀說明。
+instrument	樂器；儀器（n.）<br><br>Can you play an instrument?<br>你會演奏樂器嗎？
+internal	內部的（adj.）<br><br>internal problems<br>內部問題
+international	國際的（adj.）<br><br>an international company<br>一家國際公司
+Internet/internet	網路（n.）<br><br>I use the internet every day.<br>我每天上網。
+introduce	介紹（v.）<br><br>Let me introduce myself.<br>讓我自我介紹一下。
+introduction	介紹；引言（n.）<br><br>Read the introduction.<br>讀一下引言。
+iron	鐵；熨斗；燙衣服（n./v./adj.）<br><br>The gate is made of iron.<br>大門是鐵做的。
+jam	果醬；塞車（n./v.）<br><br>I am stuck in a traffic jam.<br>我塞在車陣裡。
+jog	慢跑（v./n.）<br><br>I jog every morning.<br>我每天早上慢跑。
+joint	關節；共同的（adj./n.）<br><br>My joints hurt.<br>我的關節痛。
+journal	日誌；期刊（n.）<br><br>She keeps a journal.<br>她有寫日誌的習慣。
+judge	法官；判斷（n./v.）<br><br>Don't judge people.<br>不要評斷別人。
+judgment/judgement	判斷（n.）<br><br>Use your judgment.<br>用你的判斷力。
+justice	正義（n.）<br><br>They want justice.<br>他們要討回公道。
+keeper	看守人（n.）<br><br>the goal keeper<br>守門員
+ketchup	番茄醬（n.）<br><br>Can I have some ketchup?<br>可以給我一些番茄醬嗎？
+kilogram	公斤（n.）<br><br>I lost two kilograms.<br>我瘦了兩公斤。<br><br>常簡稱 kilo
+lack	缺乏（n./v.）<br><br>They lack food.<br>他們缺乏食物。
+lady	女士（n.）<br><br>Who is that lady?<br>那位女士是誰？
+ladybug	瓢蟲（n.）<br><br>A ladybug is red with black dots.<br>瓢蟲是紅色帶黑點的。
+lamb	小羊；羊肉（n./v.）<br><br>I don't eat lamb.<br>我不吃羊肉。<br><br>b 不發音
+lane	車道；巷子（n.）<br><br>Stay in your lane.<br>待在你的車道。
+lantern	燈籠（n.）<br><br>the Lantern Festival<br>元宵節
+lap	膝上（坐著時的大腿）；一圈（n.）<br><br>The cat sat on my lap.<br>貓坐在我腿上。
+latest	最新的（adj.）<br><br>This is the latest phone.<br>這是最新的手機。
+latter	後者（adj.）<br><br>I prefer the latter.<br>我比較喜歡後者。<br><br>前者：former
+law	法律（n.）<br><br>It is against the law.<br>這是違法的。
+lay	放置；下蛋（v.）<br><br>The hen laid an egg.<br>母雞下了一顆蛋。<br><br>過去式 laid
+leadership	領導能力（n.）<br><br>She has good leadership.<br>她很有領導能力。
+leaf	葉子（n.）<br><br>The leaves are turning red.<br>葉子開始變紅了。<br><br>複數 leaves
+legal	合法的（adj.）<br><br>Is it legal?<br>這合法嗎？
+lend	借出（v.）<br><br>Can you lend me 100 dollars?<br>你可以借我 100 元嗎？<br><br>借入用 borrow；過去式 lent
+length	長度（n.）<br><br>What is the length of the river?<br>這條河有多長？
+lens	鏡片；鏡頭（n.）<br><br>The camera has a good lens.<br>這台相機的鏡頭很好。
+liberal	自由的；開明的（adj.）<br><br>He has liberal ideas.<br>他的想法很開明。
+lid	蓋子（n.）<br><br>Put the lid on the pot.<br>把鍋蓋蓋上。
+lift	舉起；電梯（英式）（v./n.）<br><br>Can you lift this box?<br>你抬得起這個箱子嗎？
+likely	可能的（adj./adv.）<br><br>It is likely to rain.<br>很可能會下雨。
+limit	限制（n./v.）<br><br>The speed limit is 50.<br>速限是 50。
+link	連結（n./v.）<br><br>Click the link.<br>點這個連結。
+liquid	液體（n.）<br><br>Water is a liquid.<br>水是液體。
+listener	聽眾（n.）<br><br>Thanks to all our listeners.<br>謝謝所有聽眾。
+liver	肝臟（n.）<br><br>Drinking is bad for your liver.<br>喝酒傷肝。
+load	裝載；負荷（n./v.）<br><br>Load the truck.<br>把卡車裝滿貨。
+local	當地的（adj./n.）<br><br>Try the local food.<br>試試當地的食物。
+lone	孤單的（adj.）<br><br>a lone wolf<br>一匹孤狼
+loss	損失（n.）<br><br>The company had a big loss.<br>公司虧損很大。<br><br>動詞：lose
+lower	降低；較低的（v.）<br><br>Lower your voice.<br>小聲一點。
+luck	運氣（n.）<br><br>Good luck!<br>祝好運！
+magazine	雜誌（n.）<br><br>I read a game magazine.<br>我讀遊戲雜誌。
+maintain	維持；保養（v.）<br><br>Maintain a healthy weight.<br>維持健康體重。
+major	主要的；主修（adj./n./v.）<br><br>This is a major problem.<br>這是一個主要的問題。
+male	男性（的）（adj./n.）<br><br>a male nurse<br>一位男護理師<br><br>相反：female
+manage(ment)	管理；設法做到（v./(n.)）<br><br>He manages a team of ten.<br>他管理一個十人團隊。<br><br>management ＝ 管理（名詞）
+manager	經理（n.）<br><br>I want to see the manager.<br>我要找經理。
+mango	芒果（n.）<br><br>Taiwan's mangoes are sweet.<br>台灣的芒果很甜。
+manner	方式；禮貌（n.）<br><br>Mind your manners.<br>注意禮貌。<br><br>manners（複數）＝ 禮貌
+marriage	婚姻（n.）<br><br>They have a happy marriage.<br>他們婚姻幸福。
+marry	結婚（v.）<br><br>Will you marry me?<br>你願意嫁給我嗎？
+mask	面具；口罩（n./v.）<br><br>Wear a mask.<br>戴口罩。
+mass	大量；大眾的（n.）<br><br>mass production<br>大量生產
+master	大師；精通（n./v.）<br><br>He is a chess master.<br>他是西洋棋大師。
+mat	墊子（n.）<br><br>Wipe your feet on the mat.<br>在墊子上擦擦腳。
+match	比賽；火柴；相配（n.）<br><br>We won the match.<br>我們贏了比賽。
+mate	夥伴（n./v.）<br><br>He is my classmate.<br>他是我的同學。<br><br>teammate ＝ 隊友
+material	材料（n.）<br><br>What material is it made of?<br>它是什麼材料做的？
+mature	成熟的（adj.）<br><br>He is very mature for his age.<br>以他的年紀來說很成熟。
+meaning	意思（n.）<br><br>What is the meaning of this word?<br>這個字是什麼意思？
+means	方法；手段（n.）<br><br>by any means<br>不惜任何手段
+measure(ment)	測量（v./(n.)）<br><br>Measure the room.<br>量一下房間。<br><br>measurement ＝ 測量（名詞）
+medical	醫學的（adj.）<br><br>medical care<br>醫療照護
+melody	旋律（n.）<br><br>I like the melody of this song.<br>我喜歡這首歌的旋律。
+membership	會員資格（n.）<br><br>a gym membership<br>健身房會員
+memory	記憶（n.）<br><br>I have a bad memory.<br>我記性很差。
+mention	提到（v./n.）<br><br>Don't mention it.<br>不客氣（別提了）。
+message	訊息（n.）<br><br>Send me a message.<br>傳訊息給我。
+metal	金屬（n./adj.）<br><br>The box is made of metal.<br>箱子是金屬做的。
+meter	公尺（n.）<br><br>The tower is 100 meters tall.<br>那座塔高 100 公尺。
+method	方法（n.）<br><br>This is a good method.<br>這是一個好方法。
+midnight	半夜（n.）<br><br>He came home at midnight.<br>他半夜才回家。
+mile	英里（n.）<br><br>It is five miles away.<br>在五英里外。
+military	軍事的（adj./n.）<br><br>military power<br>軍事力量
+minor	次要的；未成年人（adj./n.）<br><br>It's a minor problem.<br>這是個小問題。
+minority	少數（n.）<br><br>a minority group<br>少數族群<br><br>相反：majority
+mirror	鏡子（n./v.）<br><br>Look in the mirror.<br>照照鏡子。
+mix	混合（n./v.）<br><br>Mix the eggs and sugar.<br>把蛋和糖混合。
+mixture	混合物（n.）<br><br>a mixture of red and blue<br>紅色和藍色的混合
+model	模型；模特兒（n./v.）<br><br>He builds model ships.<br>他做船的模型。
+mood	心情（n.）<br><br>I am in a good mood.<br>我心情很好。
+mop	拖把；拖地（n./v.）<br><br>Mop the floor.<br>拖地。
+motion	動作；移動（n.）<br><br>Don't move during the motion.<br>移動中不要亂動。
+motorcycle	機車（n.）<br><br>I ride a motorcycle to work.<br>我騎機車上班。
+mug	馬克杯（n.）<br><br>a coffee mug<br>一個咖啡馬克杯
+musical	音樂的；音樂劇（adj./n.）<br><br>We saw a musical.<br>我們看了一齣音樂劇。
+musician	音樂家（n.）<br><br>He is a musician.<br>他是一位音樂家。
+nail	釘子；指甲（n.）<br><br>Cut your nails.<br>剪指甲。
+narrow	狹窄的（adj./v.）<br><br>The valley is narrow.<br>那個山谷很狹窄。<br><br>相反：wide
+nation	國家（n.）<br><br>The whole nation was happy.<br>全國都很開心。
+natural	自然的（adj.）<br><br>natural resources<br>天然資源
+naughty	頑皮的（adj.）<br><br>The boy is naughty.<br>那個男孩很頑皮。
+nearby	附近的（adj./adv.）<br><br>Is there a bank nearby?<br>附近有銀行嗎？
+nearly	幾乎（adv.）<br><br>I nearly missed the bus.<br>我差點錯過公車。<br><br>同義：almost
+necessary	必要的（adj.）<br><br>Is it necessary?<br>有必要嗎？
+necklace	項鍊（n.）<br><br>She wears a gold necklace.<br>她戴一條金項鍊。
+needle	針（n.）<br><br>a needle and thread<br>針線
+negative	負面的；否定的（adj./n.）<br><br>Don't be so negative.<br>不要那麼負面。<br><br>相反：positive
+neighbor	鄰居（n.）<br><br>My neighbor is very kind.<br>我的鄰居人很好。
+neither adj./adv./pron./	兩者都不（conj.）<br><br>Neither of them came.<br>他們兩個都沒來。<br><br>neither A nor B ＝ 既不是 A 也不是 B
+nephew	姪子、外甥（n.）<br><br>My nephew is five.<br>我的姪子五歲。
+nerve	神經；膽量（n.）<br><br>He has nerves of steel.<br>他神經很大條（很冷靜）。
+nervous	緊張的（adj.）<br><br>I feel nervous before tests.<br>考試前我會緊張。
+network	網路；人脈（n./v.）<br><br>a social network<br>社群網路
+niece	姪女、外甥女（n.）<br><br>My niece likes cats.<br>我姪女喜歡貓。
+nod	點頭（n./v.）<br><br>He nodded his head.<br>他點了點頭。
+none	沒有一個（pron./adv.）<br><br>None of them knew.<br>他們沒有人知道。
+noodle	麵（n.）<br><br>I like beef noodles.<br>我喜歡牛肉麵。<br><br>通常用複數 noodles
+nor	也不（conj.）<br><br>He can't swim, nor can I.<br>他不會游泳，我也不會。
+northern	北方的（adj.）<br><br>northern Taiwan<br>台灣北部
+notebook	筆記本；筆電（n.）<br><br>Write it in your notebook.<br>寫在你的筆記本上。
+novel	小說（n./adj.）<br><br>I am reading a novel.<br>我在讀一本小說。
+nut	堅果；螺帽（n.）<br><br>I like nuts.<br>我喜歡堅果。
+obey	服從（v.）<br><br>Soldiers must obey orders.<br>士兵必須服從命令。
+object	物體；反對（n./v.）<br><br>What is that object?<br>那個東西是什麼？
+obvious	明顯的（adj.）<br><br>The answer is obvious.<br>答案很明顯。
+occur	發生（v.）<br><br>When did it occur?<br>那是什麼時候發生的？<br><br>同義：happen
+ocean	海洋（n.）<br><br>the Pacific Ocean<br>太平洋
+offer	提供；提議（v./n.）<br><br>They offered me a job.<br>他們給了我一份工作機會。
+official	官方的；官員（adj./n.）<br><br>the official website<br>官方網站
+operate	操作；開刀（v.）<br><br>Can you operate this machine?<br>你會操作這台機器嗎？
+operator	操作員；接線生（n.）<br><br>The operator answered the phone.<br>接線生接起電話。
+opinion	意見（n.）<br><br>What is your opinion?<br>你的意見是什麼？
+ordinary	普通的（adj.）<br><br>He is an ordinary man.<br>他是一個普通人。
+organ	器官；管風琴（n.）<br><br>The heart is an organ.<br>心臟是一個器官。
+organization	組織（n.）<br><br>He works for an international organization.<br>他在一個國際組織工作。
+origin	起源（n.）<br><br>the origin of the word<br>這個字的起源
+owner	擁有者（n.）<br><br>Who is the owner of this car?<br>這台車的車主是誰？
+pain	疼痛（n./v.）<br><br>I have a pain in my back.<br>我背痛。
+painful	疼痛的；痛苦的（adj.）<br><br>It was a painful experience.<br>那是一段痛苦的經歷。
+painting	畫作（n.）<br><br>This is a famous painting.<br>這是一幅有名的畫。
+pajamas	睡衣（n.）<br><br>He is still in his pajamas.<br>他還穿著睡衣。
+pale	蒼白的（adj.）<br><br>You look pale.<br>你看起來臉色蒼白。
+pan	平底鍋（n.）<br><br>Heat the pan.<br>把平底鍋加熱。
+panda	熊貓（n.）<br><br>The panda is eating bamboo.<br>熊貓在吃竹子。
+papaya	木瓜（n.）<br><br>Papaya milk is popular in Taiwan.<br>木瓜牛奶在台灣很受歡迎。
+pardon	原諒；請再說一次（n./v.）<br><br>Pardon?<br>你說什麼？（請再說一次）
+participate	參加（v.）<br><br>I will participate in the game.<br>我會參加這個比賽。
+particular	特別的（adj.）<br><br>Is there any particular reason?<br>有什麼特別的原因嗎？<br><br>in particular ＝ 特別是
+partner	夥伴（n.）<br><br>He is my business partner.<br>他是我的生意夥伴。
+password	密碼（n.）<br><br>Enter your password.<br>輸入你的密碼。
+paste	貼上；糊狀物（n./v.）<br><br>Copy and paste.<br>複製貼上。
+path	小路（n.）<br><br>Follow the path.<br>沿著小路走。
+patient	病人；有耐心的（n./adj.）<br><br>Be patient.<br>要有耐心。
+pattern	模式；圖案（n./v.）<br><br>I see a pattern here.<br>我在這裡看到一個規律。
+peace	和平（n.）<br><br>They made peace.<br>他們講和了。
+peaceful	和平的；平靜的（adj.）<br><br>a peaceful country<br>一個和平的國家
+peach	桃子（n.）<br><br>This peach is sweet.<br>這顆桃子很甜。
+peak	山頂；高峰（n./v.）<br><br>We reached the peak.<br>我們到達了山頂。
+pear	梨子（n.）<br><br>I like pears.<br>我喜歡梨子。
+per	每（prep.）<br><br>50 dollars per person<br>每人 50 元
+perfect	完美的（adj./v./n.）<br><br>Nobody is perfect.<br>沒有人是完美的。
+period	期間；句號（n.）<br><br>a long period of time<br>一段很長的時間
+personal	個人的（adj.）<br><br>This is my personal opinion.<br>這是我個人的意見。
+personality	個性（n.）<br><br>She has a nice personality.<br>她個性很好。
+phrase	片語（n./v.）<br><br>Learn this phrase.<br>學這個片語。
+pillow	枕頭（n.）<br><br>I need a soft pillow.<br>我需要一個軟枕頭。
+pizza	披薩（n.）<br><br>Let's order a pizza.<br>我們叫個披薩吧。
+plain	樸素的；平原（adj./n.）<br><br>a plain white shirt<br>一件素面白襯衫
+platform	月台；平台（n.）<br><br>The train is at platform 3.<br>火車在第三月台。
+playground	遊樂場、操場（n.）<br><br>The kids are in the playground.<br>孩子們在遊樂場。
+pleasant	令人愉快的（adj.）<br><br>We had a pleasant trip.<br>我們有一趟愉快的旅程。
+plus	加（prep./n./adj.）<br><br>Two plus two is four.<br>二加二等於四。
+poem	詩（n.）<br><br>He wrote a poem.<br>他寫了一首詩。
+poet	詩人（n.）<br><br>She is a poet.<br>她是一位詩人。
+poetry	詩（總稱）（n.）<br><br>I like poetry.<br>我喜歡詩。
+poison	毒藥；毒害（n./v.）<br><br>The king was poisoned.<br>國王被下毒了。
+policeman/cop	警察（n.）<br><br>The policeman helped me.<br>那位警察幫了我。<br><br>口語也說 cop
+policy	政策（n.）<br><br>the new tax policy<br>新的稅務政策
+pop	流行音樂；爆開（n./adj.）<br><br>I like pop music.<br>我喜歡流行音樂。
+population	人口（n.）<br><br>Taiwan's population is about 23 million.<br>台灣人口大約 2,300 萬。
+pork	豬肉（n.）<br><br>I like pork rice.<br>我喜歡滷肉飯。
+port	港口（n.）<br><br>The ship is in port.<br>船在港口。
+pose	擺姿勢；提出（v./n.）<br><br>Pose for a photo.<br>擺個姿勢拍照。
+position	位置；職位（n./v.）<br><br>What is your position in the company?<br>你在公司的職位是什麼？
+positive	正面的；積極的（adj./n.）<br><br>Be positive!<br>要正面思考！<br><br>相反：negative
+possibility	可能性（n.）<br><br>There is a possibility of rain.<br>有下雨的可能。
+post	郵件；張貼；職位（n./v./adv.）<br><br>I will post it online.<br>我會把它貼到網路上。
+postcard	明信片（n.）<br><br>Send me a postcard.<br>寄張明信片給我。
+pound	英鎊；磅（n.）<br><br>It costs ten pounds.<br>它要十英鎊。
+powerful	強大的（adj.）<br><br>a powerful king<br>一位強大的國王
+praise	稱讚（n./v.）<br><br>The teacher praised him.<br>老師稱讚了他。
+pray	祈禱（v.）<br><br>They prayed for peace.<br>他們祈求和平。
+prayer	祈禱（名詞）（n.）<br><br>say a prayer<br>做禱告
+prefer	比較喜歡（v.）<br><br>I prefer tea to coffee.<br>比起咖啡我比較喜歡茶。
+president	總統；總裁（n.）<br><br>the president of the company<br>公司總裁
+press	按；新聞界（n./v.）<br><br>Press the button.<br>按下按鈕。
+pressure	壓力（n./v.）<br><br>I am under a lot of pressure.<br>我壓力很大。
+pride	驕傲；自尊（n./v.）<br><br>He has too much pride.<br>他太自傲了。<br><br>形容詞：proud
+priest	神父、牧師（n.）<br><br>The priest is very kind.<br>那位神父很親切。
+primary	主要的；初級的（adj.）<br><br>primary school<br>小學
+prince/princess	王子（n.）<br><br>The prince will be king.<br>王子將會成為國王。<br><br>公主：princess
+principal	校長；主要的（adj./n.）<br><br>the school principal<br>學校校長
+principle	原則（n.）<br><br>It's a matter of principle.<br>這是原則問題。
+print	列印（n./v.）<br><br>Print the document.<br>把文件印出來。
+printer	印表機（n.）<br><br>The printer is broken.<br>印表機壞了。
+prison	監獄（n.）<br><br>He is in prison.<br>他在坐牢。
+prisoner	囚犯（n.）<br><br>The prisoner escaped.<br>囚犯逃走了。
+private	私人的（adj.）<br><br>This is a private room.<br>這是私人房間。<br><br>相反：public
+prize	獎品（n./v.）<br><br>He won first prize.<br>他得了第一名。
+produce	生產（v./n.）<br><br>This factory produces cars.<br>這家工廠生產汽車。
+production	生產（名詞）（n.）<br><br>car production<br>汽車生產
+progress	進步；進展（n./v.）<br><br>You made great progress.<br>你進步很多。
+project	計畫、專案（n.）<br><br>I am working on a new project.<br>我在做一個新專案。
+promise	承諾（n./v.）<br><br>I promise.<br>我保證。
+proper	適當的（adj.）<br><br>Wear proper clothes.<br>穿適當的衣服。
+propose	提議；求婚（v.）<br><br>He proposed a new plan.<br>他提出一個新計畫。
+protect	保護（v.）<br><br>Protect your eyes.<br>保護你的眼睛。
+protective	保護的（adj.）<br><br>protective clothing<br>防護衣
+prove	證明（v.）<br><br>Can you prove it?<br>你能證明嗎？<br><br>名詞：proof
+provide	提供（v.）<br><br>We provide free Wi-Fi.<br>我們提供免費 Wi-Fi。
+pudding	布丁（n.）<br><br>I like chocolate pudding.<br>我喜歡巧克力布丁。
+pumpkin	南瓜（n.）<br><br>a pumpkin pie<br>南瓜派
+punish(ment)	處罰（v./(n.)）<br><br>He was punished for lying.<br>他因為說謊被處罰。<br><br>punishment ＝ 處罰（名詞）
+pupil	小學生；瞳孔（n.）<br><br>The teacher has 30 pupils.<br>那位老師有 30 個學生。
+puppy	小狗（n.）<br><br>What a cute puppy!<br>好可愛的小狗！
+purple	紫色（的）（adj./n.）<br><br>She likes purple.<br>她喜歡紫色。
+purpose	目的（n.）<br><br>What is the purpose of this trip?<br>這趟旅行的目的是什麼？<br><br>on purpose ＝ 故意地
+puzzle	謎題；拼圖（n./v.）<br><br>I like word puzzles.<br>我喜歡文字謎題。
+quality	品質（n.）<br><br>The quality is very good.<br>品質非常好。
+quantity	數量（n.）<br><br>quality and quantity<br>品質和數量
+quiz	小考（n.）<br><br>We have a quiz today.<br>我們今天有小考。
+railroad/railway	鐵路（n.）<br><br>The railroad goes to Tainan.<br>這條鐵路通到台南。<br><br>也說 railway
+raincoat	雨衣（n.）<br><br>Take your raincoat.<br>帶上你的雨衣。
+range	範圍（n./v.）<br><br>a wide range of prices<br>價格範圍很廣
+rapid	快速的（adj.）<br><br>rapid growth<br>快速成長
+rare	稀有的；（牛排）三分熟（adj.）<br><br>This bird is rare.<br>這種鳥很稀有。
+rat	老鼠（大型）（n.）<br><br>There is a rat in the kitchen.<br>廚房裡有一隻老鼠。
+rather	相當；寧願（adv.）<br><br>I would rather stay home.<br>我寧願待在家。
+reality	現實（n.）<br><br>Face reality.<br>面對現實。
+realize	了解到、意識到（v.）<br><br>I realized my mistake.<br>我發現了我的錯誤。
+receive	收到（v.）<br><br>Did you receive my email?<br>你收到我的 email 了嗎？
+recent	最近的（adj.）<br><br>recent news<br>最近的新聞<br><br>recently ＝ 最近
+record	紀錄；錄製（n./v.）<br><br>He broke the world record.<br>他打破了世界紀錄。
+recover	恢復（v.）<br><br>He recovered from the flu.<br>他流感好了。
+refrigerator/fridge	冰箱（n.）<br><br>Put the milk in the refrigerator.<br>把牛奶放進冰箱。<br><br>常簡稱 fridge
+refuse	拒絕（v.）<br><br>He refused to help.<br>他拒絕幫忙。
+regard	看待；關心（n./v.）<br><br>I regard him as a friend.<br>我把他當朋友看。
+region	地區（n.）<br><br>the northern region<br>北部地區
+regular	規律的；一般的（adj./n.）<br><br>regular exercise<br>規律的運動
+reject	拒絕（v.）<br><br>They rejected my plan.<br>他們否決了我的計畫。
+relate	有關聯（v.）<br><br>How does this relate to me?<br>這跟我有什麼關係？
+relation	關係（n.）<br><br>the relation between the two countries<br>兩國之間的關係
+relationship	關係（人際）（n.）<br><br>We have a good relationship.<br>我們關係很好。
+religion	宗教（n.）<br><br>What is your religion?<br>你信什麼宗教？
+remove	移除（v.）<br><br>Remove your shoes.<br>把鞋子脫掉。
+rent	租金；租（n./v.）<br><br>The rent is 15,000 a month.<br>房租一個月一萬五。
+repair	修理（n./v.）<br><br>He repaired my car.<br>他修好了我的車。
+reply	回覆（n./v.）<br><br>Please reply soon.<br>請盡快回覆。
+require(ment)	需要；要求（v./(n.)）<br><br>This job requires English.<br>這份工作需要英文。<br><br>requirement ＝ 要求（名詞）
+respect	尊重（n./v.）<br><br>Respect your parents.<br>尊重你的父母。
+respond	回應（v.）<br><br>He didn't respond.<br>他沒有回應。
+responsible	負責的（adj.）<br><br>Who is responsible for this?<br>誰要為這件事負責？
+restroom	洗手間（n.）<br><br>Where is the restroom?<br>洗手間在哪？
+result	結果（n./v.）<br><br>What was the result?<br>結果是什麼？
+return	返回；歸還；報酬（v./n.）<br><br>Return the book tomorrow.<br>明天還書。
+review	複習；評論（n./v.）<br><br>Review your notes.<br>複習你的筆記。
+riches	財富（n.）<br><br>all the riches in the world<br>世上所有的財富
+rocky	多岩石的（adj.）<br><br>a rocky road<br>一條滿是石頭的路
+role	角色（n.）<br><br>He plays the role of the king.<br>他扮演國王的角色。
+roof	屋頂（n./v.）<br><br>The cat is on the roof.<br>貓在屋頂上。
+rooster	公雞（n.）<br><br>The rooster crows in the morning.<br>公雞早上會啼叫。
+royal	皇家的（adj.）<br><br>the royal family<br>皇室
+rub	摩擦；揉（v./n.）<br><br>Don't rub your eyes.<br>不要揉眼睛。
+rubber	橡膠（n.）<br><br>rubber shoes<br>橡膠鞋
+rude	無禮的（adj.）<br><br>Don't be rude.<br>不要沒禮貌。<br><br>相反：polite
+runner	跑者（n.）<br><br>He is a fast runner.<br>他跑得很快。
+safety	安全（n.）<br><br>Safety first.<br>安全第一。<br><br>形容詞：safe
+sail	航行；帆（v./n.）<br><br>We sailed to the island.<br>我們航行到那座島。
+sailor	水手（n.）<br><br>The sailor is on the ship.<br>水手在船上。
+salesperson/salesman/ saleswoman	銷售員（n.）<br><br>The salesperson was very helpful.<br>那位銷售員幫了很多忙。<br><br>也說 salesman / saleswoman
+salty	鹹的（adj.）<br><br>The soup is too salty.<br>湯太鹹了。
+sample	樣品（n./v.）<br><br>Can I try a sample?<br>我可以試吃一下嗎？
+sand	沙（n./v.）<br><br>The kids played in the sand.<br>孩子們在沙裡玩。
+sandwich	三明治（n./v.）<br><br>I had a sandwich for lunch.<br>我午餐吃了三明治。
+satisfy	使滿意（v.）<br><br>Are you satisfied?<br>你滿意嗎？
+saw	鋸子；鋸（v./n.）<br><br>He cut the wood with a saw.<br>他用鋸子鋸木頭。<br><br>也是 see 的過去式
+scare	驚嚇（v./n.）<br><br>You scared me!<br>你嚇到我了！
+scared	害怕的（adj.）<br><br>I am scared of the dark.<br>我怕黑。
+scene	場景；現場（n.）<br><br>the scene of the crime<br>犯罪現場
+schedule	時間表（n./v.）<br><br>What is your schedule today?<br>你今天的行程是什麼？
+scooter	機車；滑板車（n.）<br><br>I ride a scooter.<br>我騎機車。
+score	分數；得分（n./v.）<br><br>What is the score?<br>比分多少？
+screen	螢幕（n.）<br><br>The screen is too small.<br>螢幕太小了。
+seafood	海鮮（n.）<br><br>I love seafood.<br>我愛海鮮。
+search	搜尋（n./v.）<br><br>Search on the internet.<br>上網搜尋。
+secondary	次要的；中等的（adj.）<br><br>secondary school<br>中學
+secret	祕密（adj./n.）<br><br>Can you keep a secret?<br>你能保守祕密嗎？
+section	部分；區（n.）<br><br>the sports section of the newspaper<br>報紙的體育版
+seek	尋找（v.）<br><br>They seek help.<br>他們尋求幫助。<br><br>過去式 sought
+seem	似乎（v.）<br><br>He seems tired.<br>他似乎很累。
+seesaw	蹺蹺板（n.）<br><br>The kids are on the seesaw.<br>孩子們在玩蹺蹺板。
+seldom	很少（adv.）<br><br>I seldom eat meat.<br>我很少吃肉。
+select	選擇（v./adj.）<br><br>Select one answer.<br>選一個答案。
+selection	選擇；精選（n.）<br><br>a wide selection of games<br>很多種遊戲可選
+self	自我（n.）<br><br>your true self<br>真正的你
+selfish	自私的（adj.）<br><br>Don't be selfish.<br>不要自私。
+sense	感覺；意義（n./v.）<br><br>It makes sense.<br>有道理。
+sensitive	敏感的（adj.）<br><br>She is very sensitive.<br>她很敏感。
+separate	分開的；分開（adj./v.）<br><br>Keep them separate.<br>把它們分開放。
+servant	僕人（n.）<br><br>The king has many servants.<br>國王有很多僕人。
+serve	服務；供應（v.）<br><br>Dinner is served.<br>晚餐上桌了。
+settle(ment)	解決；定居（v./(n.)）<br><br>They settled the problem.<br>他們解決了問題。<br><br>settlement ＝ 解決、定居地
+sex	性別；性（n.）<br><br>What is the baby's sex?<br>寶寶是男生還是女生？
+shame	羞恥；可惜（n./v.）<br><br>What a shame!<br>真可惜！
+shark	鯊魚（n.）<br><br>Sharks live in the sea.<br>鯊魚住在海裡。
+sheet	床單；一張（紙）（n.）<br><br>a sheet of paper<br>一張紙
+shelf	架子（n.）<br><br>Put it on the shelf.<br>放在架子上。<br><br>複數 shelves
+shell	殼；貝殼（n.）<br><br>We collected shells on the beach.<br>我們在海灘撿貝殼。
+shine	照耀；發光（v./n.）<br><br>The sun is shining.<br>陽光燦爛。
+shock	震驚（n./v.）<br><br>The news was a shock.<br>這消息令人震驚。
+shoot	射擊；拍攝（v./n.）<br><br>Don't shoot!<br>不要開槍！<br><br>過去式 shot
+shopkeeper	店主（n.）<br><br>The shopkeeper is friendly.<br>店主很友善。
+shore	岸（n.）<br><br>We walked along the shore.<br>我們沿著海岸走。
+shot	射擊；一針（n.）<br><br>I got a flu shot.<br>我打了流感疫苗。
+shut	關上（v./adj.）<br><br>Shut the door.<br>關上門。<br><br>過去式也是 shut
+shy	害羞的（adj.）<br><br>She is shy.<br>她很害羞。
+sidewalk	人行道（n.）<br><br>Walk on the sidewalk.<br>走人行道。
+silence	寂靜；沉默（n./v.）<br><br>There was a long silence.<br>一陣長長的沉默。
+silent	沉默的（adj.）<br><br>Be silent!<br>安靜！
+silly	傻的（adj.）<br><br>Don't be silly.<br>別傻了。
+silver	銀（n./adj.）<br><br>a silver ring<br>一枚銀戒指
+similar	相似的（adj.）<br><br>Our phones are similar.<br>我們的手機很像。
+simply	簡單地；只是（adv.）<br><br>Simply click here.<br>只要點這裡就好。
+single	單一的；單身的（adj./n./v.）<br><br>Are you single?<br>你單身嗎？
+skill	技能（n.）<br><br>Reading is an important skill.<br>閱讀是一項重要技能。
+skilled	熟練的（adj.）<br><br>a skilled worker<br>一位熟練的工人
+skin	皮膚（n.）<br><br>She has soft skin.<br>她的皮膚很軟。
+sleepy	想睡的（adj.）<br><br>I feel sleepy.<br>我覺得好睏。
+slide	溜滑梯；滑動；投影片（n./v.）<br><br>Look at the next slide.<br>看下一張投影片。
+slip	滑倒（v./n.）<br><br>Be careful, don't slip.<br>小心別滑倒。
+slipper(s)	拖鞋（n.）<br><br>Wear your slippers.<br>穿上你的拖鞋。<br><br>通常用複數 slippers
+smooth	光滑的；順利的（adj./v.）<br><br>The road is smooth.<br>路很平順。
+snack	點心（n./v.）<br><br>I want a snack.<br>我想吃點心。
+snail	蝸牛（n.）<br><br>The snail is slow.<br>蝸牛很慢。
+snowy	下雪的（adj.）<br><br>a snowy day<br>一個下雪天
+soap	肥皂（n./v.）<br><br>Wash your hands with soap.<br>用肥皂洗手。
+soccer	足球（n.）<br><br>I play soccer on Sundays.<br>我週日踢足球。
+social	社會的；社交的（adj.）<br><br>social media<br>社群媒體
+society	社會（n.）<br><br>We live in a modern society.<br>我們生活在現代社會。
+sock(s)	襪子（n.）<br><br>I need new socks.<br>我需要新襪子。<br><br>通常用複數 socks
+soda	汽水（n.）<br><br>I want a soda.<br>我要一杯汽水。
+soft	軟的（adj.）<br><br>The bed is soft.<br>床很軟。
+soil	土壤（n.）<br><br>The soil is rich here.<br>這裡的土壤很肥沃。
+solution	解決方法（n.）<br><br>We need a solution.<br>我們需要一個解決方法。
+solve	解決（v.）<br><br>Can you solve this problem?<br>你能解決這個問題嗎？
+somewhat	有點（adv.）<br><br>I am somewhat tired.<br>我有點累。
+sort	種類；分類（n./v.）<br><br>Sort the cards by color.<br>依顏色把卡片分類。
+soul	靈魂（n.）<br><br>body and soul<br>身體與靈魂
+sour	酸的（adj./n./v.）<br><br>The lemon is sour.<br>檸檬很酸。
+source	來源（n.）<br><br>What is the source of this news?<br>這則新聞的來源是什麼？
+southern	南方的（adj.）<br><br>southern Taiwan<br>台灣南部
+soybean	黃豆（n.）<br><br>Tofu is made from soybeans.<br>豆腐是用黃豆做的。
+speaker	說話者；喇叭（n.）<br><br>The speaker is too loud.<br>喇叭太大聲了。
+speech	演講（n.）<br><br>He gave a speech.<br>他發表了一場演講。
+speed	速度（n./v.）<br><br>The car is at full speed.<br>車子全速前進。
+spelling	拼字（n.）<br><br>Check your spelling.<br>檢查你的拼字。
+spider	蜘蛛（n.）<br><br>I am afraid of spiders.<br>我怕蜘蛛。
+spirit	精神（n.）<br><br>team spirit<br>團隊精神
+spoon	湯匙（n.）<br><br>I need a spoon.<br>我需要一支湯匙。
+sport	運動（n./v.）<br><br>What sports do you like?<br>你喜歡什麼運動？
+spot	地點；斑點（n./v.）<br><br>This is a nice spot.<br>這是個好地點。
+spread	散布；展開（v./n.）<br><br>The news spread fast.<br>消息傳得很快。<br><br>過去式也是 spread
+stage	舞台；階段（n./v.）<br><br>We are in the first stage.<br>我們在第一階段。
+stamp	郵票；蓋章（n./v.）<br><br>Put a stamp on the letter.<br>在信上貼郵票。
+standard	標準（adj./n.）<br><br>high standards<br>高標準
+state(ment)	州；國家；狀態；陳述（v./(n.)）<br><br>He stated his opinion.<br>他陳述了他的意見。<br><br>statement ＝ 聲明、陳述
+steak	牛排（n.）<br><br>I'd like a steak.<br>我要一份牛排。
+steel	鋼（n./v.）<br><br>The bridge is made of steel.<br>這座橋是鋼造的。
+step	步；台階（n./v.）<br><br>Watch your step.<br>小心腳步。
+stick	棍子；黏貼（v./n.）<br><br>He hit the dog with a stick.<br>他用棍子打狗。
+stomachache	胃痛（n.）<br><br>I have a stomachache.<br>我胃痛。
+stone	石頭（n./v.）<br><br>He threw a stone.<br>他丟了一顆石頭。
+storm	暴風雨（n./v.）<br><br>There was a big storm last night.<br>昨晚有一場大暴風雨。
+stranger	陌生人（n.）<br><br>Don't talk to strangers.<br>不要跟陌生人說話。
+strawberry	草莓（n.）<br><br>I love strawberries.<br>我很愛草莓。
+stream	小溪；串流（n./v.）<br><br>We crossed a stream.<br>我們越過一條小溪。
+stress	壓力；強調（n./v.）<br><br>I am under a lot of stress.<br>我壓力很大。
+stretch	伸展（n./v.）<br><br>Stretch your arms.<br>伸展你的手臂。
+strict	嚴格的（adj.）<br><br>My father is strict.<br>我爸很嚴格。
+strike	罷工；打擊（n./v.）<br><br>The workers are on strike.<br>工人們在罷工。
+struggle	奮鬥；掙扎（n./v.）<br><br>He struggled to pay his rent.<br>他很努力才付得出房租。
+style	風格（n./v.）<br><br>I like your style.<br>我喜歡你的風格。
+subway/underground/ metro	地鐵（n.）<br><br>Let's take the subway.<br>我們搭地鐵吧。<br><br>也說 underground / metro
+succeed	成功（v.）<br><br>If you try, you will succeed.<br>只要嘗試，你就會成功。
+success	成功（名詞）（n.）<br><br>Hard work is the key to success.<br>努力是成功的關鍵。
+such	如此的（adj./pron.）<br><br>It was such a nice day.<br>那天真是美好。
+sudden	突然的（adj./n.）<br><br>a sudden change<br>突然的改變<br><br>suddenly ＝ 突然地
+suggest	建議（v.）<br><br>I suggest we leave now.<br>我建議我們現在離開。
+suit	西裝；適合（n./v.）<br><br>This color suits you.<br>這個顏色很適合你。
+suitable	適合的（adj.）<br><br>This movie is not suitable for kids.<br>這部電影不適合小孩。
+super	超級的（adj./adv.）<br><br>That's super!<br>太棒了！
+supper	晚餐（n.）<br><br>We had supper at seven.<br>我們七點吃晚餐。
+supply	供應（n./v.）<br><br>food supply<br>食物供應
+support	支持（n./v.）<br><br>Thank you for your support.<br>謝謝你的支持。
+suppose	猜想；認為（v.）<br><br>I suppose you are right.<br>我想你是對的。<br><br>be supposed to ＝ 應該
+surf	衝浪；上網瀏覽（v.）<br><br>I surf the internet.<br>我上網瀏覽。
+surface	表面（n./v.）<br><br>the surface of the moon<br>月球表面
+survival	生存（n.）<br><br>the fight for survival<br>為生存而戰
+survive	存活（v.）<br><br>Only two people survived.<br>只有兩個人活了下來。
+swallow	吞；燕子（v./n.）<br><br>Swallow the pill.<br>把藥吞下去。
+sweater	毛衣（n.）<br><br>Wear a sweater.<br>穿件毛衣。
+sweep	掃（v.）<br><br>Sweep the floor.<br>掃地。<br><br>過去式 swept
+swim	游泳（v./n.）<br><br>Can you swim?<br>你會游泳嗎？<br><br>過去式 swam
+swimsuit	泳衣（n.）<br><br>Don't forget your swimsuit.<br>別忘了你的泳衣。
+swing	鞦韆；擺動（n./v.）<br><br>The kids are on the swing.<br>孩子們在盪鞦韆。
+switch	開關；切換（n./v.）<br><br>Switch to English.<br>切換成英文。
+symbol	象徵；符號（n.）<br><br>The dove is a symbol of peace.<br>鴿子是和平的象徵。
+system	系統（n.）<br><br>The system is down.<br>系統當機了。
+tale	故事（n.）<br><br>a fairy tale<br>一個童話故事
+target	目標（n./v.）<br><br>Our target is 900.<br>我們的目標是 900 分。
+task	任務（n./v.）<br><br>This is an easy task.<br>這是一個簡單的任務。
+tax	稅（n./v.）<br><br>We pay taxes.<br>我們繳稅。
+teapot	茶壺（n.）<br><br>Put the tea in the teapot.<br>把茶放進茶壺。
+tear	眼淚；撕破（n./v.）<br><br>She was in tears.<br>她在哭。<br><br>當「撕破」時念法不同
+technology	科技（n.）<br><br>Technology changes fast.<br>科技變化很快。
+teens	十幾歲（13–19 歲）（n.）<br><br>He is in his teens.<br>他十幾歲。
+temperature	溫度（n.）<br><br>The temperature is 30 degrees.<br>溫度是 30 度。
+term	學期；用語；期限（n./v.）<br><br>a medical term<br>一個醫學用語
+terrorism	恐怖主義（n.）<br><br>the fight against terrorism<br>反恐行動
+terrorist	恐怖分子（adj.）<br><br>a terrorist attack<br>恐怖攻擊
+text	文字；傳簡訊（n.）<br><br>Text me later.<br>晚點傳訊息給我。
+textbook	課本（n.）<br><br>Open your textbook.<br>打開你的課本。
+therefore	因此（adv.）<br><br>He was sick; therefore, he stayed home.<br>他生病了，因此待在家。
+thief	小偷（n.）<br><br>The thief stole my phone.<br>小偷偷了我的手機。
+thirsty	口渴的（adj.）<br><br>I am thirsty.<br>我口渴了。
+thought	想法（n.）<br><br>That's a good thought.<br>那是個好想法。<br><br>也是 think 的過去式
+throughout	遍及；從頭到尾（prep./adv.）<br><br>It rained throughout the day.<br>雨下了一整天。
+thunder	雷（n./v.）<br><br>I heard thunder.<br>我聽到打雷聲。
+thus	因此（adv.）<br><br>Thus, we won.<br>因此，我們贏了。
+till	直到（conj./prep.）<br><br>Wait till tomorrow.<br>等到明天。<br><br>同義：until
+tiny	極小的（adj.）<br><br>a tiny bug<br>一隻很小的蟲
+tire	輪胎；使疲倦（v./n.）<br><br>I have a flat tire.<br>我爆胎了。
+tissue	面紙（n.）<br><br>Do you have a tissue?<br>你有面紙嗎？
+title	標題；頭銜（n./v.）<br><br>What is the title of the book?<br>這本書的書名是什麼？
+toast	吐司；乾杯（n./v.）<br><br>I eat toast for breakfast.<br>我早餐吃吐司。
+tofu	豆腐（n.）<br><br>I like stinky tofu.<br>我喜歡臭豆腐。
+tone	語氣；音調（n.）<br><br>Don't use that tone with me.<br>不要用那種語氣跟我說話。
+tongue	舌頭（n.）<br><br>He burned his tongue.<br>他燙到舌頭了。
+toothache	牙痛（n.）<br><br>I have a toothache.<br>我牙痛。
+toothbrush	牙刷（n.）<br><br>I need a new toothbrush.<br>我需要一支新牙刷。
+tour	旅遊；參觀（n./v.）<br><br>We took a tour of the castle.<br>我們參觀了城堡。
+toward/towards	朝向（prep.）<br><br>He walked toward me.<br>他朝我走過來。<br><br>也寫 towards
+track	軌道；追蹤（n./v.）<br><br>Track your progress.<br>追蹤你的進度。
+trade	貿易；交易（n./v.）<br><br>The two countries trade a lot.<br>兩國之間貿易往來很多。
+tradition	傳統（n.）<br><br>It is a family tradition.<br>這是家族傳統。
+traditional	傳統的（adj.）<br><br>traditional food<br>傳統食物
+trap	陷阱（n./v.）<br><br>It's a trap!<br>這是陷阱！
+trash	垃圾（n./v.）<br><br>Take out the trash.<br>把垃圾拿出去。<br><br>同義：garbage
+travel	旅行（n./v.）<br><br>I love to travel.<br>我喜歡旅行。
+treasure	寶藏（n./v.）<br><br>They found the treasure.<br>他們找到了寶藏。
+trial	審判；試驗（n.）<br><br>a free trial<br>免費試用
+triangle	三角形（n.）<br><br>Draw a triangle.<br>畫一個三角形。
+trick	詭計；把戲（n./v.）<br><br>It was a trick.<br>那是一個詭計。
+true	真的（adj./adv./v.）<br><br>Is it true?<br>是真的嗎？
+trust	信任（v./n.）<br><br>I trust you.<br>我信任你。
+truth	真相（n.）<br><br>Tell me the truth.<br>告訴我真相。
+tube	管子（n.）<br><br>a tube of toothpaste<br>一條牙膏
+turtle	烏龜（n.）<br><br>The turtle is slow.<br>烏龜很慢。
+typhoon	颱風（n.）<br><br>A typhoon is coming.<br>颱風要來了。
+typical	典型的（adj.）<br><br>a typical day<br>典型的一天
+ugly	醜的（adj.）<br><br>The building is ugly.<br>那棟建築很醜。
+umbrella	雨傘（n.）<br><br>Take an umbrella.<br>帶把傘。
+unit	單位；單元（n.）<br><br>Read Unit 3.<br>讀第三單元。
+universe	宇宙（n.）<br><br>the size of the universe<br>宇宙的大小
+university	大學（n.）<br><br>She studies at a university.<br>她在大學讀書。
+unless	除非（conj.）<br><br>I won't go unless you go.<br>除非你去，不然我不去。
+upload	上傳（v.）<br><br>Upload your photos.<br>上傳你的照片。<br><br>相反：download
+upon	在……之上（prep.）<br><br>Once upon a time<br>很久很久以前
+upper	上面的（adj.）<br><br>the upper floor<br>樓上
+upset	心煩的（adj./v./n.）<br><br>She is upset.<br>她很不高興。
+upstairs	在樓上（adv./adj./n.）<br><br>My room is upstairs.<br>我的房間在樓上。
+used	用過的；習慣的（adj.）<br><br>a used car<br>一台二手車<br><br>be used to ＝ 習慣於
+user	使用者（n.）<br><br>The game has a million users.<br>這款遊戲有一百萬名用戶。
+usual	平常的（adj.）<br><br>as usual<br>像平常一樣
+vacation	假期（n./v.）<br><br>We went on vacation.<br>我們去度假了。
+valley	山谷（n.）<br><br>There is a river in the valley.<br>山谷裡有一條河。
+valuable	有價值的（adj.）<br><br>This ring is valuable.<br>這枚戒指很值錢。
+value	價值（n./v.）<br><br>the value of money<br>錢的價值
+victory	勝利（n.）<br><br>We won a great victory.<br>我們獲得了大勝。
+view	景色；看法（n./v.）<br><br>What a beautiful view!<br>多美的景色！
+village	村莊（n.）<br><br>He lives in a small village.<br>他住在一個小村莊。
+vote	投票（n./v.）<br><br>Did you vote?<br>你投票了嗎？
+waist	腰（n.）<br><br>My waist is 80 cm.<br>我的腰圍是 80 公分。
+waiter/waitress	服務生（n.）<br><br>The waiter brought the menu.<br>服務生拿來了菜單。<br><br>女服務生：waitress
+wallet	皮夾（n.）<br><br>I lost my wallet.<br>我的皮夾丟了。
+war	戰爭（n.）<br><br>The war lasted ten years.<br>那場戰爭持續了十年。
+wash	洗（v./n.）<br><br>Wash your hands.<br>洗手。
+waste	浪費（n./v.）<br><br>Don't waste time.<br>不要浪費時間。
+watermelon	西瓜（n.）<br><br>Watermelon is sweet.<br>西瓜很甜。
+wealth	財富（n.）<br><br>He has great wealth.<br>他非常富有。<br><br>形容詞：wealthy
+wedding	婚禮（n.）<br><br>We went to a wedding.<br>我們去參加了一場婚禮。
+weekday	平日（週一到週五）（n.）<br><br>I work on weekdays.<br>我平日上班。
+weigh	秤重；重……（v.）<br><br>I weigh 70 kilos.<br>我重 70 公斤。
+weight	重量；體重（n.）<br><br>I want to lose weight.<br>我想減重。
+western	西方的（adj./n.）<br><br>western food<br>西餐
+whale	鯨魚（n.）<br><br>The whale is huge.<br>鯨魚非常大。
+whatever	無論什麼（adj./pron.）<br><br>Do whatever you want.<br>你想做什麼就做什麼。
+wheel	輪子（n.）<br><br>The car has four wheels.<br>車子有四個輪子。
+whenever	無論何時（conj./adv.）<br><br>Call me whenever you want.<br>你隨時都可以打給我。
+wherever	無論哪裡（adv./conj.）<br><br>I will follow you wherever you go.<br>你去哪我都跟著你。
+whisper	低聲說（n./v.）<br><br>She whispered in my ear.<br>她在我耳邊低聲說話。
+whoever	無論是誰（pron.）<br><br>Whoever wins gets the prize.<br>誰贏誰就得獎。
+whole	全部的（adj./n.）<br><br>the whole day<br>一整天
+whom	誰（受詞）（pron.）<br><br>To whom did you give it?<br>你把它給了誰？
+width	寬度（n.）<br><br>What is the width of the road?<br>這條路有多寬？<br><br>形容詞：wide
+wild	野生的（adj./adv./n.）<br><br>wild animals<br>野生動物
+willing	願意的（adj.）<br><br>I am willing to help.<br>我願意幫忙。
+windy	颳風的（adj.）<br><br>It is windy today.<br>今天風很大。
+wine	葡萄酒（n.）<br><br>a glass of red wine<br>一杯紅酒
+wing	翅膀（n.）<br><br>The bird hurt its wing.<br>那隻鳥傷了翅膀。
+wire	電線（n.）<br><br>Don't touch the wire.<br>不要碰電線。
+within	在……之內（prep./adv.）<br><br>within one hour<br>一小時之內
+wolf	狼（n.）<br><br>The wolf ate the sheep.<br>狼吃了羊。<br><br>複數 wolves
+wonder	想知道；奇觀（v./n.）<br><br>I wonder why he left.<br>我很好奇他為什麼離開。
+wood(s)	木頭；樹林（n.）<br><br>The table is made of wood.<br>桌子是木頭做的。<br><br>woods ＝ 樹林
+wooden	木製的（adj.）<br><br>a wooden box<br>一個木箱
+wool	羊毛（n.）<br><br>a wool sweater<br>一件羊毛毛衣
+workbook	練習本（n.）<br><br>Do page 5 in your workbook.<br>做練習本第 5 頁。
+worm	蟲（無腳的）（n./v.）<br><br>The bird ate a worm.<br>鳥吃了一隻蟲。
+worse	更糟的（adj./adv./n.）<br><br>It's getting worse.<br>越來越糟了。<br><br>bad → worse → worst
+worst	最糟的（adj./adv./n.）<br><br>This is the worst day of my life.<br>這是我人生中最糟的一天。
+worth	值得（adj./n.）<br><br>This book is worth reading.<br>這本書值得一讀。
+wound	傷口（n./v.）<br><br>The soldier had a deep wound.<br>那名士兵有一道很深的傷口。
+yam	地瓜、山藥（n.）<br><br>I like baked yams.<br>我喜歡烤地瓜。
+youth	青春；年輕人（n.）<br><br>in my youth<br>在我年輕的時候
+zebra	斑馬（n.）<br><br>A zebra has black and white stripes.<br>斑馬有黑白條紋。

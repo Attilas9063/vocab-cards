@@ -1,0 +1,1002 @@
+#separator:tab
+#html:true
+abandon	拋棄；放棄（v.）<br><br>They abandoned the city.<br>他們放棄了那座城市。
+absolute	絕對的（adj.）<br><br>absolute power<br>絕對的權力<br><br>absolutely ＝ 絕對地
+absorb	吸收（v.）<br><br>Plants absorb water.<br>植物吸收水分。
+abstract	抽象的（adj.）<br><br>an abstract idea<br>一個抽象的概念
+academic	學術的（adj.）<br><br>academic research<br>學術研究
+accent	口音（n.）<br><br>He has a British accent.<br>他有英國口音。
+acceptance	接受（n.）<br><br>acceptance of the offer<br>接受這個提議
+access	進入；使用權（n./v.）<br><br>I have access to the database.<br>我有資料庫的使用權限。<br><br>注意：asset 是「資產」
+accidental	意外的（adj.）<br><br>an accidental discovery<br>一個意外的發現
+accompany	陪伴（v.）<br><br>I will accompany you.<br>我會陪你去。
+accomplish(ment)	完成（v./(n.)）<br><br>We accomplished our mission.<br>我們完成了任務。<br><br>accomplishment ＝ 成就
+accountant	會計師（n.）<br><br>She is an accountant.<br>她是會計師。
+accuracy	準確性（n.）<br><br>accuracy is important<br>準確性很重要
+accuse	指控（v.）<br><br>He was accused of stealing.<br>他被指控偷竊。
+acid	酸；酸性的（n./adj.）<br><br>acid rain<br>酸雨
+acquaintance	相識的人（n.）<br><br>He is just an acquaintance.<br>他只是點頭之交。
+acquire	獲得（v.）<br><br>acquire new skills<br>學會新技能
+adapt	適應；改編（v.）<br><br>Animals adapt to the weather.<br>動物會適應天氣。
+addict	成癮者；使上癮（n./v.）<br><br>a game addict<br>遊戲成癮者
+adequate	足夠的（adj.）<br><br>adequate sleep<br>充足的睡眠
+adjust(ment)	調整（v./(n.)）<br><br>Adjust the volume.<br>調整音量。<br><br>adjustment ＝ 調整（名詞）
+admirable	令人欽佩的（adj.）<br><br>an admirable leader<br>一位令人欽佩的領袖
+admiration	欽佩（n.）<br><br>I have great admiration for him.<br>我很欽佩他。
+admission	准許進入；入場費（n.）<br><br>Admission is free.<br>免費入場。
+adopt	採用；收養（v.）<br><br>They adopted a child.<br>他們收養了一個孩子。
+agency	代理機構（n.）<br><br>a travel agency<br>旅行社
+agent	代理人；特務（n.）<br><br>a secret agent<br>一名特務
+aggressive	有侵略性的；積極的（adj.）<br><br>an aggressive army<br>一支有侵略性的軍隊
+agreeable	令人愉快的；同意的（adj.）<br><br>an agreeable man<br>一個隨和的人
+alcohol	酒精（n.）<br><br>Don't drink alcohol and drive.<br>喝酒不開車。
+alert	警覺的；警報（adj./v./n.）<br><br>Stay alert.<br>保持警覺。
+allowance	零用錢；津貼（n.）<br><br>a monthly allowance<br>每月零用錢
+alternative	替代的；替代方案（adj./n.）<br><br>We have no alternative.<br>我們別無選擇。
+amateur	業餘的（adj./n.）<br><br>an amateur player<br>業餘選手
+ambiguous	模稜兩可的（adj.）<br><br>an ambiguous answer<br>模稜兩可的回答
+ambitious	有野心的（adj.）<br><br>an ambitious plan<br>一個有野心的計畫
+amuse(ment)	使發笑（v./(n.)）<br><br>The joke amused us.<br>這個笑話把我們逗樂了。<br><br>amusement ＝ 娛樂；amusement park ＝ 遊樂園
+analysis	分析（n.）<br><br>data analysis<br>資料分析
+analyze	分析（動詞）（v.）<br><br>Analyze the data.<br>分析資料。
+ancestor	祖先（n.）<br><br>our ancestors<br>我們的祖先
+anniversary	週年紀念（n.）<br><br>our wedding anniversary<br>我們的結婚週年
+annoy	使惱怒（v.）<br><br>The noise annoys me.<br>噪音讓我很煩。
+annual	每年的（adj.）<br><br>annual income<br>年收入
+anxiety	焦慮（n.）<br><br>He suffers from anxiety.<br>他有焦慮問題。
+apology	道歉（名詞）（n.）<br><br>I owe you an apology.<br>我欠你一個道歉。
+apparent	明顯的（adj.）<br><br>for no apparent reason<br>沒有明顯的理由
+applicant	申請人（n.）<br><br>There are 100 applicants.<br>有 100 名申請者。
+application	申請；應用程式（n.）<br><br>a job application<br>求職申請<br><br>app 就是 application 的簡稱
+appoint(ment)	任命；約定（v./(n.)）<br><br>He was appointed manager.<br>他被任命為經理。<br><br>appointment ＝ 約會、預約；注意：point 是「點」
+appreciation	感激；欣賞（n.）<br><br>a letter of appreciation<br>一封感謝函
+appropriate	適當的（adj.）<br><br>appropriate clothes<br>適當的服裝
+approval	批准（n.）<br><br>We need his approval.<br>我們需要他的批准。
+aquarium	水族館（n.）<br><br>We visited the aquarium.<br>我們去了水族館。
+arch	拱門（n./v.）<br><br>a stone arch<br>一座石拱門
+arise	出現；產生（v.）<br><br>Problems may arise.<br>問題可能會出現。
+arms	武器（n.）<br><br>arms and soldiers<br>武器和士兵
+artificial	人工的（adj.）<br><br>artificial intelligence (AI)<br>人工智慧
+artistic	藝術的（adj.）<br><br>artistic talent<br>藝術天分
+ashamed	羞愧的（adj.）<br><br>I am ashamed of myself.<br>我為自己感到羞愧。
+aspect	方面（n.）<br><br>every aspect of life<br>生活的每個方面
+aspirin	阿斯匹靈（n.）<br><br>Take an aspirin.<br>吃一顆阿斯匹靈。
+assemble	組裝；集合（v.）<br><br>Assemble the parts.<br>組裝零件。
+assembly	集會；組裝（n.）<br><br>a school assembly<br>學校集會
+assign(ment)	分配（v./(n.)）<br><br>The teacher assigned homework.<br>老師出了功課。<br><br>assignment ＝ 作業、任務
+assistance	協助（n.）<br><br>Do you need assistance?<br>你需要協助嗎？
+associate	聯想；有關聯（adj./n./v.）<br><br>I associate summer with the beach.<br>我把夏天跟海灘聯想在一起。
+association	協會；關聯（n.）<br><br>a sports association<br>一個運動協會
+assurance	保證（n.）<br><br>He gave me his assurance.<br>他向我保證。
+assure	向……保證（v.）<br><br>I assure you it is safe.<br>我向你保證它很安全。
+athletic	運動的；健壯的（adj.）<br><br>an athletic body<br>健壯的身材
+atmosphere	大氣；氣氛（n.）<br><br>a friendly atmosphere<br>友善的氣氛
+atom	原子（n.）<br><br>An atom is very small.<br>原子非常小。
+atomic	原子的（adj.）<br><br>an atomic bomb<br>原子彈
+attach(ment)	附上；連接（v./(n.)）<br><br>Attach the file to the email.<br>把檔案附加在 email 裡。<br><br>attachment ＝ 附件
+attraction	吸引力；景點（n.）<br><br>a tourist attraction<br>觀光景點
+audio	聲音的（adj.）<br><br>an audio file<br>音訊檔
+authentic	真正的（adj.）<br><br>authentic Italian food<br>道地的義大利菜
+authority	權力；當局（n.）<br><br>the local authorities<br>地方當局
+autobiography	自傳（n.）<br><br>He wrote his autobiography.<br>他寫了自傳。
+autograph	親筆簽名（n./v.）<br><br>Can I have your autograph?<br>可以幫我簽名嗎？
+await	等待（v.）<br><br>A big surprise awaits you.<br>一個大驚喜在等著你。
+bald	禿頭的（adj.）<br><br>He is going bald.<br>他開始禿頭了。
+ballet	芭蕾（n.）<br><br>She dances ballet.<br>她跳芭蕾。
+bandage	繃帶（n./v.）<br><br>Put a bandage on it.<br>貼上繃帶。
+bankrupt	破產的（adj./v./n.）<br><br>The company went bankrupt.<br>那家公司破產了。
+bargain	便宜貨；討價還價（n./v.）<br><br>It's a bargain!<br>太划算了！
+barrier	障礙（n.）<br><br>a language barrier<br>語言障礙
+basin	盆；盆地（n.）<br><br>a wash basin<br>洗臉盆
+battery	電池（n.）<br><br>My phone battery is low.<br>我的手機快沒電了。
+beggar	乞丐（n.）<br><br>a beggar on the street<br>街上的乞丐
+behavior	行為（n.）<br><br>good behavior<br>良好的行為
+bin	箱子；垃圾桶（n.）<br><br>Put it in the bin.<br>丟進垃圾桶。
+biography	傳記（n.）<br><br>a biography of the king<br>國王的傳記
+biology	生物學（n.）<br><br>I studied biology.<br>我讀過生物學。
+blade	刀片（n.）<br><br>a sharp blade<br>鋒利的刀片
+blend	混合（v./n.）<br><br>Blend the fruit.<br>把水果打成汁。
+blessing	祝福（n.）<br><br>It was a blessing.<br>那是一種福氣。
+blink	眨眼（v./n.）<br><br>He didn't blink.<br>他眼睛都沒眨。
+bloom	開花（n./v.）<br><br>The flowers are in bloom.<br>花正盛開。
+blossom	花；開花（n./v.）<br><br>cherry blossoms<br>櫻花
+boast	自誇（v./n.）<br><br>He likes to boast.<br>他喜歡自誇。
+bond	聯繫；債券（n./v.）<br><br>government bonds<br>政府公債
+bounce	彈跳（v./n.）<br><br>The ball bounced.<br>球彈了起來。
+bracelet	手環（n.）<br><br>a gold bracelet<br>一個金手環
+breed	繁殖；品種（n./v.）<br><br>What breed is your dog?<br>你的狗是什麼品種？
+bridegroom/groom	新郎（n.）<br><br>the bride and bridegroom<br>新娘和新郎<br><br>常簡稱 groom
+broke	沒錢的（adj.）<br><br>I'm broke.<br>我沒錢了。<br><br>也是 break 的過去式
+broom	掃把（n.）<br><br>Sweep with a broom.<br>用掃把掃。
+brutal	殘暴的（adj.）<br><br>a brutal attack<br>殘暴的攻擊
+bulletin	公告（n.）<br><br>a bulletin board<br>公告欄
+burglar	竊賊（n.）<br><br>A burglar broke into the house.<br>竊賊闖進了房子。
+cabinet	櫥櫃；內閣（n.）<br><br>a kitchen cabinet<br>廚房櫥櫃
+calculate	計算（v.）<br><br>Calculate the total.<br>計算總數。
+calculation	計算（名詞）（n.）<br><br>a quick calculation<br>快速的計算
+calorie	卡路里（n.）<br><br>This drink has 200 calories.<br>這杯飲料有 200 大卡。
+campaign	活動；競選（n./v.）<br><br>an election campaign<br>競選活動
+candidate	候選人（n.）<br><br>the best candidate<br>最佳人選
+cane	手杖（n.）<br><br>He walks with a cane.<br>他拄著拐杖走路。
+canoe	獨木舟（n./v.）<br><br>We paddled a canoe.<br>我們划獨木舟。
+capacity	容量；能力（n.）<br><br>The stadium has a capacity of 20,000.<br>這座體育場可容納兩萬人。
+capital(ism)	資本（n.）<br><br>They need more capital.<br>他們需要更多資本。<br><br>capitalism ＝ 資本主義
+capitalist	資本家（n.）<br><br>a rich capitalist<br>一位有錢的資本家
+cargo	貨物（n.）<br><br>a cargo ship<br>一艘貨輪
+carrier	運送者；航空公司（n.）<br><br>an aircraft carrier<br>航空母艦
+carve	雕刻（v.）<br><br>He carved a statue.<br>他雕了一座雕像。
+catalogue	目錄（n./v.）<br><br>a product catalogue<br>產品目錄
+category	類別（n.）<br><br>What category is it in?<br>它屬於哪一類？
+cease	停止（v./n.）<br><br>The war ceased.<br>戰爭停止了。
+celebration	慶祝（名詞）（n.）<br><br>a birthday celebration<br>生日慶祝
+chamber	房間；議院（n.）<br><br>a secret chamber<br>一間密室
+championship	冠軍賽（n.）<br><br>the world championship<br>世界冠軍賽
+characteristic	特徵（n./adj.）<br><br>a common characteristic<br>一個共同特徵
+charity	慈善（n.）<br><br>He gives money to charity.<br>他捐錢做慈善。
+chemistry	化學（n.）<br><br>I failed chemistry.<br>我化學被當了。
+cherish	珍惜（v.）<br><br>Cherish your time.<br>珍惜你的時間。
+chew	嚼（v./n.）<br><br>Chew your food.<br>好好嚼食物。
+choke	噎住（v./n.）<br><br>He choked on a bone.<br>他被骨頭噎到了。
+chorus	合唱團；副歌（n.）<br><br>a school chorus<br>學校合唱團
+circular	圓形的（adj.）<br><br>a circular table<br>一張圓桌
+circulate	循環；流通（v.）<br><br>Blood circulates in the body.<br>血液在體內循環。
+circulation	循環；發行量（n.）<br><br>blood circulation<br>血液循環
+circumstance	情況（n.）<br><br>under the circumstances<br>在這種情況下
+civilian	平民（adj./n.）<br><br>Many civilians died.<br>很多平民死亡。
+civilization	文明（n.）<br><br>ancient civilization<br>古文明
+clarify	闡明（v.）<br><br>Can you clarify that?<br>你能說清楚一點嗎？
+clash	衝突（n./v.）<br><br>a clash between two armies<br>兩軍的衝突
+classification	分類（n.）<br><br>the classification of animals<br>動物的分類
+classify	分類（v.）<br><br>Classify the words.<br>把單字分類。
+claw	爪（n./v.）<br><br>The cat has sharp claws.<br>貓有鋒利的爪子。
+cliff	懸崖（n.）<br><br>Don't stand near the cliff.<br>不要站在懸崖邊。
+clumsy	笨拙的（adj.）<br><br>I am so clumsy.<br>我好笨手笨腳。
+coarse	粗糙的（adj.）<br><br>coarse cloth<br>粗布
+code	密碼；程式碼（n./v.）<br><br>Write the code.<br>寫程式碼。
+collapse	倒塌；崩潰（n./v.）<br><br>The bridge collapsed.<br>橋倒塌了。
+colleague	同事（n.）<br><br>my colleague at work<br>我的同事
+combination	組合（n.）<br><br>a good combination<br>一個好組合
+comedy	喜劇（n.）<br><br>a romantic comedy<br>浪漫喜劇
+commander	指揮官（n.）<br><br>the army commander<br>軍隊指揮官
+comment	評論（n./v.）<br><br>Leave a comment.<br>留言。
+commerce	商業（n.）<br><br>e-commerce<br>電子商務
+commit	犯（罪）；承諾（v.）<br><br>He committed a crime.<br>他犯了罪。
+communication	溝通（名詞）（n.）<br><br>good communication<br>良好的溝通
+community	社區；社群（n.）<br><br>a gaming community<br>一個遊戲社群
+companion	同伴（n.）<br><br>a travel companion<br>旅伴
+competition	競爭；比賽（n.）<br><br>a singing competition<br>歌唱比賽
+competitive	競爭的（adj.）<br><br>a competitive market<br>競爭激烈的市場
+competitor	競爭者（n.）<br><br>our main competitor<br>我們的主要競爭對手
+complicate	使複雜（v.）<br><br>Don't complicate things.<br>不要把事情複雜化。<br><br>complicated ＝ 複雜的
+compose	作曲；組成（v.）<br><br>He composed a song.<br>他作了一首曲子。
+composer	作曲家（n.）<br><br>a famous composer<br>一位有名的作曲家
+composition	作文；作品（n.）<br><br>Write a composition.<br>寫一篇作文。
+concentrate	專心（v.）<br><br>I can't concentrate.<br>我無法專心。
+concentration	專注（n.）<br><br>It requires concentration.<br>這需要專注。
+concept	概念（n.）<br><br>a new concept<br>一個新概念
+concerning	關於（prep.）<br><br>questions concerning the plan<br>關於計畫的問題
+concrete	具體的；混凝土（adj./n./v.）<br><br>a concrete example<br>一個具體的例子
+conductor	指揮；車掌（n.）<br><br>the orchestra's conductor<br>管弦樂團的指揮
+conference	會議（n.）<br><br>a press conference<br>記者會
+confess	坦白（v.）<br><br>He confessed his crime.<br>他坦白了他的罪行。
+confidence	信心（n.）<br><br>She has confidence.<br>她很有自信。
+confusion	困惑（n.）<br><br>There was some confusion.<br>有點混亂。
+congratulate	恭喜（v.）<br><br>I congratulated him.<br>我恭喜了他。
+congress	國會（n.）<br><br>the U.S. Congress<br>美國國會
+conquer	征服（v.）<br><br>They conquered the land.<br>他們征服了這片土地。
+conscience	良心（n.）<br><br>He has a guilty conscience.<br>他良心不安。
+consequence	後果（n.）<br><br>Think about the consequences.<br>想想後果。
+consequent	隨之而來的（adj.）<br><br>the consequent problems<br>隨之而來的問題
+conservative	保守的（adj./n.）<br><br>a conservative view<br>保守的看法
+consist	組成（v.）<br><br>The team consists of five players.<br>這個隊伍由五名球員組成。<br><br>consist of ＝ 由……組成
+consistent	一致的（adj.）<br><br>consistent results<br>一致的結果
+constitute	構成（v.）<br><br>Women constitute half of the staff.<br>女性佔員工的一半。
+constitution	憲法（n.）<br><br>the constitution of the country<br>這個國家的憲法
+construct	建造（v.）<br><br>They constructed a bridge.<br>他們建造了一座橋。
+construction	建設；施工（n.）<br><br>under construction<br>施工中
+constructive	建設性的（adj.）<br><br>constructive advice<br>建設性的建議
+consult	諮詢（v.）<br><br>Consult a doctor.<br>請教醫生。
+consultant	顧問（n.）<br><br>a business consultant<br>商業顧問
+consume	消耗（v.）<br><br>This car consumes a lot of gas.<br>這台車很耗油。
+consumer	消費者（n.）<br><br>consumer prices<br>消費者物價
+container	容器；貨櫃（n.）<br><br>a plastic container<br>一個塑膠容器
+content	內容；滿足的（n./adj.）<br><br>the content of the book<br>這本書的內容
+contest	比賽（n./v.）<br><br>a singing contest<br>歌唱比賽
+context	上下文；背景（n.）<br><br>Guess the meaning from context.<br>從上下文猜意思。
+continual	不斷的（adj.）<br><br>continual problems<br>不斷的問題
+continuous	連續的（adj.）<br><br>continuous rain<br>連綿的雨
+contrary	相反（n./adj.）<br><br>on the contrary<br>相反地
+contrast	對比（n./v.）<br><br>in contrast<br>相較之下
+contribute	貢獻（v.）<br><br>He contributed a lot.<br>他貢獻很多。
+contribution	貢獻（名詞）（n.）<br><br>a big contribution<br>很大的貢獻
+convenience	方便（n.）<br><br>a convenience store<br>便利商店
+convention	會議；慣例（n.）<br><br>a game convention<br>遊戲展
+conventional	傳統的（adj.）<br><br>conventional methods<br>傳統的方法
+converse	交談（v.）<br><br>They conversed in English.<br>他們用英文交談。
+convey	傳達（v.）<br><br>convey a message<br>傳達訊息
+convince	說服（v.）<br><br>He convinced me.<br>他說服了我。
+cooperate	合作（v.）<br><br>We need to cooperate.<br>我們需要合作。
+cooperation	合作（名詞）（n.）<br><br>Thank you for your cooperation.<br>謝謝你的合作。
+cooperative	合作的（adj./n.）<br><br>a cooperative attitude<br>合作的態度
+cope	應付（v.）<br><br>I can't cope with it.<br>我應付不來。<br><br>cope with ＝ 應付
+copper	銅（n./adj.）<br><br>a copper pot<br>一個銅鍋
+cord	繩；電線（n.）<br><br>a power cord<br>電源線
+correspond	符合；通信（v.）<br><br>The data corresponds to the report.<br>資料與報告相符。
+costume	服裝；戲服（n.）<br><br>a Halloween costume<br>萬聖節服裝
+cottage	小屋（n.）<br><br>a cottage by the lake<br>湖邊的小屋
+council	議會（n.）<br><br>the city council<br>市議會
+counter	櫃台（n./v./adj./adv.）<br><br>Pay at the counter.<br>在櫃台付款。
+courageous	勇敢的（adj.）<br><br>a courageous soldier<br>一名勇敢的士兵
+courtesy	禮貌（n.）<br><br>common courtesy<br>基本禮貌
+coward	懦夫（n.）<br><br>Don't be a coward.<br>不要當懦夫。
+crack	裂縫；破裂（n./v.）<br><br>a crack in the wall<br>牆上的裂縫
+craft	工藝；手藝（n.）<br><br>arts and crafts<br>美術工藝
+creation	創造（名詞）（n.）<br><br>the creation of the world<br>世界的創造
+creativity	創造力（n.）<br><br>She has a lot of creativity.<br>她很有創造力。
+creep	悄悄移動（v.）<br><br>He crept into the room.<br>他悄悄溜進房間。
+critic	評論家（n.）<br><br>a movie critic<br>影評人
+critical	關鍵的；批評的（adj.）<br><br>a critical moment<br>關鍵時刻
+criticism	批評（名詞）（n.）<br><br>He can't take criticism.<br>他無法接受批評。
+criticize	批評（v.）<br><br>Don't criticize others.<br>不要批評別人。
+cruelty	殘忍（n.）<br><br>cruelty to animals<br>虐待動物
+crunchy	酥脆的（adj.）<br><br>crunchy cookies<br>酥脆的餅乾
+crush	壓碎（n./v.）<br><br>Crush the garlic.<br>把大蒜壓碎。
+cube	立方體（n./v.）<br><br>an ice cube<br>一塊冰塊
+cue	暗示；提示（n./v.）<br><br>That's my cue.<br>輪到我了（那是我的提示）。
+cunning	狡猾的（adj./n.）<br><br>a cunning plan<br>狡猾的計畫
+curiosity	好奇心（n.）<br><br>out of curiosity<br>出於好奇
+curl	捲曲（n./v.）<br><br>curly hair<br>捲髮
+curse	詛咒（n./v.）<br><br>The castle is cursed.<br>那座城堡被詛咒了。
+curve	曲線（n./v.）<br><br>a sharp curve<br>一個急彎
+cushion	墊子（n./v.）<br><br>a soft cushion<br>一個軟墊子
+damp	潮濕的（adj./n./v.）<br><br>damp clothes<br>潮濕的衣服
+deadline	截止期限（n.）<br><br>The deadline is Friday.<br>截止日是星期五。
+declare	宣布（v.）<br><br>They declared war.<br>他們宣戰了。
+decoration	裝飾（名詞）（n.）<br><br>Christmas decorations<br>聖誕裝飾
+defeat	打敗（n./v.）<br><br>We defeated the enemy.<br>我們打敗了敵人。
+defend	防守；保衛（v.）<br><br>Defend the city!<br>保衛城市！
+defense	防禦（n.）<br><br>the defense of the castle<br>城堡的防禦
+defensible	可防守的（adj.）<br><br>a defensible position<br>易守的位置
+defensive	防禦的（adj.）<br><br>a defensive wall<br>一道防禦城牆
+definite	明確的（adj.）<br><br>a definite answer<br>明確的答案<br><br>definitely ＝ 肯定地
+delicate	精緻的；脆弱的（adj.）<br><br>a delicate flower<br>一朵嬌弱的花
+delight	喜悅（n./v.）<br><br>to my delight<br>令我高興的是
+delightful	令人愉快的（adj.）<br><br>a delightful evening<br>愉快的夜晚
+demand	要求；需求（n./v.）<br><br>supply and demand<br>供給與需求
+demonstrate	示範；證明（v.）<br><br>Let me demonstrate.<br>讓我示範一下。
+demonstration	示範；示威（n.）<br><br>a cooking demonstration<br>烹飪示範
+dense	密集的（adj.）<br><br>a dense forest<br>茂密的森林
+depart	出發（v.）<br><br>The train departs at nine.<br>火車九點出發。
+departure	出發（名詞）（n.）<br><br>departure time<br>出發時間
+dependent	依賴的（adj./n.）<br><br>He is dependent on his parents.<br>他依賴他的父母。<br><br>相反：independent
+depression	憂鬱；不景氣（n.）<br><br>the Great Depression<br>經濟大蕭條
+deserve	應得（v.）<br><br>You deserve it.<br>這是你應得的。
+desperate	絕望的；極度渴望的（adj.）<br><br>a desperate situation<br>絕望的處境
+despite	儘管（prep.）<br><br>Despite the rain, we went out.<br>儘管下雨，我們還是出門了。
+destruction	破壞（n.）<br><br>the destruction of the city<br>城市的毀滅
+detective	偵探（n./adj.）<br><br>a detective story<br>偵探小說
+determination	決心（n.）<br><br>She has strong determination.<br>她的決心很強。
+device	裝置（n.）<br><br>an electronic device<br>一個電子裝置
+devise	設計；想出（v.）<br><br>He devised a plan.<br>他想出了一個計畫。
+devote	奉獻（v.）<br><br>He devoted his life to science.<br>他把一生奉獻給科學。
+dew	露水（n.）<br><br>morning dew<br>晨露
+diagram	圖表（n./v.）<br><br>Look at the diagram.<br>看這張圖。
+differ	不同（v.）<br><br>Our opinions differ.<br>我們的意見不同。
+digest	消化（n./v.）<br><br>Food takes time to digest.<br>食物需要時間消化。
+digital	數位的（adj.）<br><br>a digital camera<br>數位相機
+dignity	尊嚴（n.）<br><br>human dignity<br>人的尊嚴
+diligence	勤勉（n.）<br><br>Success comes from diligence.<br>成功來自勤勉。
+diligent	勤勉的（adj.）<br><br>a diligent student<br>勤勞的學生
+diploma	畢業證書；文憑（n.）<br><br>a high school diploma<br>高中文憑
+diplomat	外交官（n.）<br><br>He is a diplomat.<br>他是一名外交官。
+disability	殘疾（n.）<br><br>people with disabilities<br>身心障礙者
+disadvantage	缺點（n./v.）<br><br>advantages and disadvantages<br>優缺點
+disappoint(ment)	使失望（v./(n.)）<br><br>Don't disappoint me.<br>不要讓我失望。<br><br>disappointment ＝ 失望
+disaster	災難（n.）<br><br>a natural disaster<br>天然災害
+discipline	紀律（n./v.）<br><br>The army needs discipline.<br>軍隊需要紀律。
+disguise	偽裝（v./n.）<br><br>He was in disguise.<br>他喬裝打扮。
+disgust	厭惡（n./v.）<br><br>He looked at it in disgust.<br>他厭惡地看著它。
+dismiss	解散；解雇（v.）<br><br>Class dismissed.<br>下課。
+disorder	混亂；失調（n./v.）<br><br>an eating disorder<br>飲食失調
+dispute	爭論（n./v.）<br><br>a land dispute<br>土地糾紛
+distinct	明顯不同的（adj.）<br><br>two distinct groups<br>兩個截然不同的群體
+distinguish	區別（v.）<br><br>distinguish right from wrong<br>辨別是非
+distinguished	卓越的（adj.）<br><br>a distinguished scientist<br>一位傑出的科學家
+distribute	分發（v.）<br><br>Distribute the food.<br>分發食物。
+distribution	分配（n.）<br><br>the distribution of wealth<br>財富分配
+district	區（n.）<br><br>the business district<br>商業區
+disturb	打擾（v.）<br><br>Do not disturb.<br>請勿打擾。
+diverse	多樣的（adj.）<br><br>a diverse culture<br>多元的文化
+diversity	多樣性（n.）<br><br>cultural diversity<br>文化多樣性
+divine	神聖的（adj.）<br><br>divine power<br>神的力量
+divorce	離婚（n./v.）<br><br>They got a divorce.<br>他們離婚了。
+dodge	閃避（v./n.）<br><br>He dodged the attack.<br>他閃過了攻擊。
+dominant	佔優勢的（adj.）<br><br>the dominant team<br>佔優勢的隊伍
+dominate	支配（v.）<br><br>They dominate the market.<br>他們主宰了市場。
+draft	草稿（n./v.）<br><br>the first draft<br>初稿
+dread	害怕（n./v.）<br><br>I dread Mondays.<br>我很怕星期一。
+drift	漂流（v./n.）<br><br>The boat drifted away.<br>船漂走了。
+drill	鑽頭；演練（n./v.）<br><br>a fire drill<br>消防演習
+drowsy	昏昏欲睡的（adj.）<br><br>This medicine makes you drowsy.<br>這個藥會讓你想睡。
+durable	耐用的（adj.）<br><br>durable shoes<br>耐穿的鞋子
+dusty	滿是灰塵的（adj.）<br><br>a dusty room<br>滿是灰塵的房間
+dye	染料；染色（n./v.）<br><br>She dyed her hair.<br>她染了頭髮。
+dynamic	有活力的（adj.）<br><br>a dynamic leader<br>有活力的領導者
+dynasty	王朝（n.）<br><br>the Tang Dynasty<br>唐朝
+earnest	認真的（adj./n.）<br><br>in earnest<br>認真地
+earphone	耳機（n.）<br><br>I listen with earphones.<br>我用耳機聽。
+economic	經濟的（adj.）<br><br>economic growth<br>經濟成長
+economical	節省的（adj.）<br><br>an economical car<br>一台省油的車
+economics	經濟學（n.）<br><br>He studies economics.<br>他讀經濟學。
+economist	經濟學家（n.）<br><br>a famous economist<br>一位知名經濟學家
+economy	經濟（n.）<br><br>The economy is growing.<br>經濟正在成長。
+efficiency	效率（n.）<br><br>energy efficiency<br>能源效率
+elastic	有彈性的（adj./n.）<br><br>an elastic band<br>鬆緊帶
+electronics	電子學；電子產品（n.）<br><br>consumer electronics<br>消費性電子產品
+elegant	優雅的（adj.）<br><br>an elegant dress<br>一件優雅的洋裝
+elementary	基本的；初級的（adj.）<br><br>elementary school<br>小學
+eliminate	消除；淘汰（v.）<br><br>Our team was eliminated.<br>我們隊被淘汰了。
+elsewhere	在別處（adv.）<br><br>Let's go elsewhere.<br>我們去別的地方吧。
+embarrass(ment)	使尷尬（v./(n.)）<br><br>Don't embarrass me.<br>別讓我難堪。<br><br>embarrassment ＝ 尷尬
+embassy	大使館（n.）<br><br>the Japanese embassy<br>日本大使館
+emerge	出現（v.）<br><br>The sun emerged from the clouds.<br>太陽從雲中出現。
+emphasis	強調（n.）<br><br>put emphasis on safety<br>強調安全
+empire	帝國（n.）<br><br>the Roman Empire<br>羅馬帝國
+enclose	圍住；附上（v.）<br><br>Please find enclosed the report.<br>隨信附上報告。
+encounter	遭遇（n./v.）<br><br>We encountered the enemy.<br>我們遭遇了敵人。
+endanger	危及（v.）<br><br>endangered animals<br>瀕臨絕種的動物
+endure	忍受（v.）<br><br>I can't endure the pain.<br>我無法忍受這種痛。
+enforce(ment)	執行（v./(n.)）<br><br>enforce the law<br>執法<br><br>enforcement ＝ 執行
+engineering	工程學（n.）<br><br>software engineering<br>軟體工程
+enlarge(ment)	放大（v./(n.)）<br><br>Enlarge the photo.<br>把照片放大。<br><br>enlargement ＝ 放大
+enormous	巨大的（adj.）<br><br>an enormous castle<br>一座巨大的城堡
+ensure	確保（v.）<br><br>Ensure your safety.<br>確保你的安全。
+entertain(ment)	娛樂（v./(n.)）<br><br>The show entertained us.<br>這場表演讓我們很開心。<br><br>entertainment ＝ 娛樂
+enthusiasm	熱忱（n.）<br><br>He has a lot of enthusiasm.<br>他很有熱忱。
+equality	平等（n.）<br><br>gender equality<br>性別平等
+equip(ment)	裝備（v./(n.)）<br><br>The army is well equipped.<br>軍隊裝備精良。<br><br>equipment ＝ 設備
+era	時代（n.）<br><br>a new era<br>一個新時代
+essential	必要的（adj./n.）<br><br>Water is essential.<br>水是必需的。
+establish(ment)	建立（v./(n.)）<br><br>They established a company.<br>他們成立了一家公司。<br><br>establishment ＝ 建立；機構
+estimate	估計（n./v.）<br><br>I estimate it will take two years.<br>我估計要花兩年。
+ethnic	種族的（adj./n.）<br><br>ethnic groups<br>族群
+evaluate	評估（v.）<br><br>Evaluate the results.<br>評估結果。
+evaluation	評估（名詞）（n.）<br><br>a monthly evaluation<br>每月評量
+eventual	最終的（adj.）<br><br>the eventual winner<br>最後的贏家<br><br>eventually ＝ 最後
+evidence	證據（n./v.）<br><br>There is no evidence.<br>沒有證據。
+evident	明顯的（adj.）<br><br>It is evident that he lied.<br>很明顯他說謊了。
+exaggerate	誇大（v.）<br><br>Don't exaggerate.<br>不要誇大。
+exception	例外（n.）<br><br>Every rule has exceptions.<br>每個規則都有例外。
+exhaust	使筋疲力盡；廢氣（n./v.）<br><br>I am exhausted.<br>我筋疲力盡了。
+exhibit	展示；展品（n./v.）<br><br>exhibit paintings<br>展出畫作
+expand	擴張（v.）<br><br>The company expanded.<br>公司擴張了。
+expansion	擴張（名詞）（n.）<br><br>business expansion<br>業務擴張
+experimental	實驗性的（adj.）<br><br>an experimental method<br>實驗性的方法
+explanation	解釋（名詞）（n.）<br><br>a clear explanation<br>清楚的解釋
+explosion	爆炸（名詞）（n.）<br><br>a loud explosion<br>一聲巨大的爆炸
+explosive	爆炸性的；炸藥（adj./n.）<br><br>explosive growth<br>爆炸性成長
+expose	暴露；揭露（v.）<br><br>Don't expose your skin to the sun.<br>不要讓皮膚曬太陽。
+exposure	暴露（n.）<br><br>exposure to English<br>接觸英文的機會
+extend	延長；擴展（v.）<br><br>Extend the deadline.<br>延長截止日期。
+extent	程度（n.）<br><br>to some extent<br>在某種程度上
+facial	臉部的（adj.）<br><br>facial expression<br>臉部表情
+facility	設施（n.）<br><br>sports facilities<br>運動設施
+faithful	忠實的（adj.）<br><br>a faithful dog<br>一隻忠實的狗
+fame	名聲（n.）<br><br>fame and fortune<br>名利
+fantastic	極好的（adj.）<br><br>That's fantastic!<br>太棒了！
+fantasy	幻想（n.）<br><br>a fantasy novel<br>一本奇幻小說
+farewell	告別（n.）<br><br>a farewell party<br>歡送會
+fasten	繫緊（v.）<br><br>Fasten your seat belt.<br>繫好安全帶。<br><br>t 不發音
+fatal	致命的（adj.）<br><br>a fatal mistake<br>一個致命的錯誤
+favorable	有利的（adj.）<br><br>favorable conditions<br>有利的條件
+fax	傳真（n./v.）<br><br>Send me a fax.<br>傳真給我。
+feast	盛宴（n./v.）<br><br>a wedding feast<br>婚宴
+feedback	回饋（n.）<br><br>Thank you for your feedback.<br>謝謝你的回饋。
+ferry	渡輪（n./v.）<br><br>Take the ferry to the island.<br>搭渡輪去那座島。
+fertile	肥沃的（adj.）<br><br>fertile land<br>肥沃的土地
+fetch	去拿來（v./n.）<br><br>Fetch the ball!<br>去把球撿回來！
+fiction	小說；虛構（n.）<br><br>science fiction<br>科幻小說
+fierce	兇猛的（adj.）<br><br>a fierce battle<br>激烈的戰鬥
+finance	財務；金融（n./v.）<br><br>the finance department<br>財務部門
+financial	財務的；金融的（adj.）<br><br>financial news<br>財經新聞
+fireplace	壁爐（n.）<br><br>Sit by the fireplace.<br>坐在壁爐旁。
+flatter	奉承（v.）<br><br>Don't flatter me.<br>別拍我馬屁。
+flea	跳蚤（n.）<br><br>a flea market<br>跳蚤市場
+flee	逃跑（v.）<br><br>They fled the city.<br>他們逃離了城市。<br><br>過去式 fled
+flexible	有彈性的（adj.）<br><br>flexible working hours<br>彈性工時
+fluent	流利的（adj.）<br><br>He is fluent in English.<br>他的英文很流利。
+flush	沖（馬桶）；臉紅（v./n.）<br><br>Flush the toilet.<br>沖馬桶。
+foam	泡沫（n./v.）<br><br>beer foam<br>啤酒泡沫
+forbid	禁止（v.）<br><br>Smoking is forbidden.<br>禁止吸菸。
+forecast	預測（n./v.）<br><br>the weather forecast<br>天氣預報
+formation	形成；隊形（n.）<br><br>battle formation<br>戰鬥隊形
+formula	公式（n.）<br><br>a math formula<br>數學公式
+fort	堡壘（n.）<br><br>an old fort<br>一座古老的堡壘
+fortunate	幸運的（adj.）<br><br>We are fortunate.<br>我們很幸運。<br><br>fortunately ＝ 幸運地
+fossil	化石（n./adj.）<br><br>dinosaur fossils<br>恐龍化石
+foundation	基礎；基金會（n.）<br><br>the foundation of the house<br>房子的地基
+founder	創辦人（n.）<br><br>the founder of the company<br>公司的創辦人
+fragile	易碎的（adj.）<br><br>Fragile! Handle with care.<br>易碎物品！小心輕放。
+frame	框架（n./v.）<br><br>a picture frame<br>相框
+frequency	頻率（n.）<br><br>the frequency of earthquakes<br>地震的頻率
+freshman	新鮮人；一年級生（n.）<br><br>a college freshman<br>大一新生
+frost	霜（n./v.）<br><br>frost on the window<br>窗上的霜
+frown	皺眉（n./v.）<br><br>He frowned at me.<br>他對我皺眉頭。
+frustrate	使挫折（v.）<br><br>The problem frustrated me.<br>這個問題讓我很挫折。
+frustration	挫折（n.）<br><br>a feeling of frustration<br>挫折感
+fulfill(ment)	實現（v./(n.)）<br><br>fulfill your dream<br>實現你的夢想<br><br>fulfillment ＝ 實現；成就感
+functional	功能性的（adj.）<br><br>functional design<br>功能性設計
+fundamental	基本的（adj./n.）<br><br>fundamental rights<br>基本權利
+funeral	葬禮（n.）<br><br>We went to his funeral.<br>我們去參加他的葬禮。
+furious	狂怒的（adj.）<br><br>He was furious.<br>他氣炸了。
+furnish	配置家具（v.）<br><br>a furnished apartment<br>附家具的公寓
+furthermore	此外（adv.）<br><br>Furthermore, it is cheap.<br>此外，它很便宜。
+gallery	畫廊（n.）<br><br>an art gallery<br>美術館
+gaze	凝視（n./v.）<br><br>She gazed at the stars.<br>她凝視著星星。
+gear	裝備；齒輪（n./v.）<br><br>camping gear<br>露營裝備
+gender	性別（n.）<br><br>gender equality<br>性別平等
+gene	基因（n.）<br><br>It's in his genes.<br>那是他的天性（基因）。
+generation	世代（n.）<br><br>the young generation<br>年輕世代
+generosity	慷慨（n.）<br><br>Thank you for your generosity.<br>謝謝你的慷慨。
+genius	天才（n.）<br><br>He is a genius.<br>他是個天才。
+genuine	真正的（adj.）<br><br>genuine leather<br>真皮
+germ	細菌（n.）<br><br>Wash your hands to kill germs.<br>洗手殺菌。
+gifted	有天分的（adj.）<br><br>a gifted child<br>有天分的孩子
+gigantic	巨大的（adj.）<br><br>a gigantic monster<br>一隻巨大的怪物
+giggle	咯咯笑（n./v.）<br><br>The girls giggled.<br>女孩們咯咯笑。
+ginger	薑（n.）<br><br>ginger tea<br>薑茶
+glimpse	一瞥（n./v.）<br><br>I caught a glimpse of him.<br>我瞥見他一眼。
+globe	地球；地球儀（n.）<br><br>around the globe<br>全世界
+glorious	光榮的（adj.）<br><br>a glorious victory<br>光榮的勝利
+goods	商品（n.）<br><br>goods and services<br>商品與服務
+gown	禮服；長袍（n.）<br><br>a wedding gown<br>婚紗
+grace	優雅（n./v.）<br><br>She moves with grace.<br>她舉止優雅。
+graceful	優雅的（adj.）<br><br>a graceful dancer<br>一位優雅的舞者
+gracious	親切的（adj.）<br><br>a gracious host<br>親切的主人
+graduation	畢業（n.）<br><br>graduation day<br>畢業典禮那天
+grammar	文法（n.）<br><br>English grammar<br>英文文法
+grammatical	文法的（adj.）<br><br>a grammatical mistake<br>文法錯誤
+graph	圖表（n./v.）<br><br>a line graph<br>折線圖
+grateful	感激的（adj.）<br><br>I am grateful for your help.<br>我很感謝你的幫忙。
+gratitude	感激（n.）<br><br>a letter of gratitude<br>一封感謝信
+grave	墳墓；嚴重的（n./adj.）<br><br>a grave mistake<br>嚴重的錯誤
+greasy	油膩的（adj.）<br><br>greasy food<br>油膩的食物
+greeting(s)	問候（n.）<br><br>holiday greetings<br>節日問候
+grief	悲傷（n.）<br><br>She was full of grief.<br>她滿懷悲傷。
+grind	磨碎（v./n.）<br><br>Grind the coffee beans.<br>磨咖啡豆。
+guarantee	保證（v./n.）<br><br>I guarantee it.<br>我保證。
+guardian	監護人；守護者（n.）<br><br>his legal guardian<br>他的法定監護人
+guilt	罪惡感（n.）<br><br>a sense of guilt<br>罪惡感
+guilty	有罪的（adj.）<br><br>He is guilty.<br>他有罪。
+gulf	海灣（n.）<br><br>the Gulf of Mexico<br>墨西哥灣
+habitual	習慣性的（adj.）<br><br>a habitual liar<br>習慣說謊的人
+halt	停止（n./v.）<br><br>The army came to a halt.<br>軍隊停了下來。
+handwriting	筆跡（n.）<br><br>Your handwriting is nice.<br>你的字很好看。
+hardship	艱難（n.）<br><br>They lived through hardship.<br>他們度過了艱難時期。
+hardware	硬體（n.）<br><br>computer hardware<br>電腦硬體
+harmony	和諧（n.）<br><br>live in harmony<br>和諧相處
+harsh	嚴厲的（adj.）<br><br>harsh words<br>嚴厲的話
+haste	匆忙（n.）<br><br>in haste<br>匆忙地
+hasten	加速（v.）<br><br>hasten the process<br>加快進度<br><br>t 不發音
+hatred	仇恨（n.）<br><br>hatred between the two countries<br>兩國之間的仇恨
+hawk	鷹（n.）<br><br>The hawk caught a mouse.<br>老鷹抓到一隻老鼠。
+helicopter	直升機（n.）<br><br>a rescue helicopter<br>救援直升機
+herd	（牛）群（n./v.）<br><br>a herd of cows<br>一群牛
+hesitation	猶豫（名詞）（n.）<br><br>without hesitation<br>毫不猶豫
+hive	蜂巢（n.）<br><br>a bee hive<br>蜂巢
+homeland	祖國（n.）<br><br>They returned to their homeland.<br>他們回到了祖國。
+honeymoon	蜜月（n./v.）<br><br>They went to Japan on their honeymoon.<br>他們去日本度蜜月。
+hook	鉤子（n./v.）<br><br>a fish hook<br>魚鉤
+horizon	地平線（n.）<br><br>The sun rose above the horizon.<br>太陽從地平線升起。
+horrify	使恐懼（v.）<br><br>The news horrified us.<br>這消息嚇壞了我們。
+hose	水管（n./v.）<br><br>a garden hose<br>花園水管
+household	家庭（n.）<br><br>household chores<br>家事
+housework	家事（n.）<br><br>I hate housework.<br>我討厭做家事。
+humanity	人類；人性（n.）<br><br>crimes against humanity<br>違反人道罪
+humidity	濕度（n.）<br><br>high humidity<br>高濕度
+hurricane	颶風（n.）<br><br>A hurricane hit the city.<br>颶風襲擊了城市。
+hush	安靜（n./v.）<br><br>Hush!<br>噓！
+hydrogen	氫（n.）<br><br>hydrogen energy<br>氫能
+identical	完全相同的（adj.）<br><br>identical twins<br>同卵雙胞胎
+identification	身分證明（n.）<br><br>Show your identification.<br>出示你的身分證明。
+identify	辨認（v.）<br><br>Can you identify him?<br>你能認出他嗎？
+idiom	成語；慣用語（n.）<br><br>an English idiom<br>一個英文慣用語
+idle	閒置的；懶散的（adj./v.）<br><br>Don't sit idle.<br>不要閒著。
+idol	偶像（n.）<br><br>a pop idol<br>流行偶像
+ignorance	無知（n.）<br><br>ignorance of the law<br>不懂法律
+ignorant	無知的（adj.）<br><br>an ignorant man<br>一個無知的人
+illustrate	說明；畫插圖（v.）<br><br>Let me illustrate with an example.<br>讓我舉例說明。
+illustration	插圖；說明（n.）<br><br>a book with illustrations<br>有插圖的書
+imaginary	想像的（adj.）<br><br>an imaginary friend<br>想像中的朋友
+imaginative	富有想像力的（adj.）<br><br>an imaginative story<br>富有想像力的故事
+imitate	模仿（v.）<br><br>He imitated his father.<br>他模仿他父親。
+imitation	模仿；仿製品（n.）<br><br>an imitation of the real thing<br>仿冒品
+immigrant	移民（人）（n.）<br><br>immigrants from Asia<br>來自亞洲的移民
+immigrate	移入（v.）<br><br>They immigrated to Canada.<br>他們移民到加拿大。
+immigration	移民（現象）（n.）<br><br>immigration policy<br>移民政策
+impact	影響；衝擊（n./v.）<br><br>a big impact<br>很大的影響
+imply	暗示（v.）<br><br>What are you implying?<br>你在暗示什麼？
+impose	強加（v.）<br><br>impose a tax<br>課稅
+impression	印象（n.）<br><br>first impression<br>第一印象
+incident	事件（n.）<br><br>a strange incident<br>一起奇怪的事件
+including	包括（prep.）<br><br>ten people, including me<br>十個人，包括我
+incredible	難以置信的（adj.）<br><br>an incredible story<br>難以置信的故事
+indication	跡象（n.）<br><br>an indication of danger<br>危險的跡象
+infant	嬰兒（n.）<br><br>a newborn infant<br>新生兒
+infection	感染（n.）<br><br>an eye infection<br>眼睛感染
+inflation	通貨膨脹（n.）<br><br>high inflation<br>高通膨
+influential	有影響力的（adj.）<br><br>an influential leader<br>有影響力的領袖
+informative	資訊豐富的（adj.）<br><br>an informative article<br>一篇資訊豐富的文章
+ingredient	材料；成分（n.）<br><br>the ingredients of the cake<br>蛋糕的材料
+initial	最初的；首字母（adj./n./v.）<br><br>my initial plan<br>我最初的計畫
+injure	傷害（v.）<br><br>He was injured in the war.<br>他在戰爭中受傷了。
+innocence	無辜（n.）<br><br>prove his innocence<br>證明他的清白
+input	輸入（n./v.）<br><br>user input<br>使用者輸入
+insert	插入（v./n.）<br><br>Insert your card.<br>插入你的卡片。
+inspection	檢查（名詞）（n.）<br><br>a safety inspection<br>安全檢查
+inspiration	靈感（n.）<br><br>a source of inspiration<br>靈感來源
+inspire	啟發；激勵（v.）<br><br>His story inspired me.<br>他的故事激勵了我。
+install	安裝（v.）<br><br>Install the app.<br>安裝這個 app。
+instinct	本能（n.）<br><br>animal instinct<br>動物本能
+instruct	指示；教導（v.）<br><br>He instructed us to wait.<br>他指示我們等待。
+instructor	教練；講師（n.）<br><br>a driving instructor<br>駕訓班教練
+insult	侮辱（n./v.）<br><br>Don't insult me.<br>不要侮辱我。
+insurance	保險（n.）<br><br>health insurance<br>健康保險
+intellectual	智力的；知識分子（adj./n.）<br><br>intellectual property<br>智慧財產
+intelligence	智力；情報（n.）<br><br>artificial intelligence<br>人工智慧
+intend	打算（v.）<br><br>I intend to learn English.<br>我打算學英文。
+intense	強烈的（adj.）<br><br>intense heat<br>酷熱
+intensity	強度（n.）<br><br>the intensity of the training<br>訓練的強度
+intensive	密集的（adj.）<br><br>an intensive course<br>密集課程
+intention	意圖（n.）<br><br>good intentions<br>善意
+interact	互動（v.）<br><br>interact with others<br>與他人互動
+interaction	互動（名詞）（n.）<br><br>social interaction<br>社交互動
+interfere	干涉（v.）<br><br>Don't interfere.<br>不要干涉。
+intermediate	中級的（adj./n./v.）<br><br>intermediate level<br>中級程度
+interpret	口譯；解讀（v.）<br><br>interpret the data<br>解讀資料
+interruption	打斷（名詞）（n.）<br><br>Sorry for the interruption.<br>抱歉打擾。
+intimate	親密的（adj./n.）<br><br>an intimate friend<br>親密的朋友
+intuition	直覺（n.）<br><br>Trust your intuition.<br>相信你的直覺。
+invade	侵略（v.）<br><br>The enemy invaded the country.<br>敵人入侵了這個國家。
+invasion	侵略（名詞）（n.）<br><br>the invasion of the city<br>城市遭到入侵
+invention	發明（名詞）（n.）<br><br>a great invention<br>一項偉大的發明
+invest(ment)	投資（v./(n.)）<br><br>I invest in stocks.<br>我投資股票。<br><br>investment ＝ 投資（名詞）
+investigation	調查（名詞）（n.）<br><br>a police investigation<br>警方調查
+involve(ment)	涉及；牽涉（v./(n.)）<br><br>The job involves travel.<br>這份工作需要出差。<br><br>involvement ＝ 參與
+isolate	隔離（v.）<br><br>isolate the sick<br>隔離病人
+isolation	孤立（n.）<br><br>in isolation<br>孤立地
+issue	問題；發行（n./v.）<br><br>an important issue<br>一個重要議題
+jealousy	嫉妒（n.）<br><br>jealousy between brothers<br>兄弟之間的嫉妒
+keen	熱衷的；敏銳的（adj.）<br><br>He is keen on games.<br>他熱衷遊戲。
+kettle	水壺（n.）<br><br>Boil the kettle.<br>燒開水。
+kneel	跪（v.）<br><br>He knelt before the king.<br>他跪在國王面前。<br><br>k 不發音
+knob	門把（n.）<br><br>a door knob<br>門把<br><br>k 不發音
+labor	勞力（n./v.）<br><br>cheap labor<br>廉價勞工
+laboratory/lab	實驗室（n.）<br><br>a science laboratory<br>科學實驗室<br><br>常簡稱 lab
+lag	落後（n./v.）<br><br>lag behind<br>落後
+landmark	地標（n.）<br><br>Taipei 101 is a landmark.<br>台北 101 是地標。
+landscape	風景（n./v.）<br><br>a beautiful landscape<br>美麗的風景
+largely	主要地（adv.）<br><br>It is largely true.<br>大致上是真的。
+launch	發射；推出（v./n.）<br><br>launch a new product<br>推出新產品
+lawful	合法的（adj.）<br><br>lawful action<br>合法的行動
+lean	倚靠；瘦的（v./adj.）<br><br>lean against the wall<br>靠在牆上
+learned	博學的（adj.）<br><br>a learned man<br>一位博學的人
+lecture	講座；演講（n./v.）<br><br>a history lecture<br>一場歷史講座
+lecturer	講師（n.）<br><br>a university lecturer<br>大學講師
+legend	傳奇（n.）<br><br>an ancient legend<br>古老的傳說
+leisurely	悠閒的（adj./adv.）<br><br>a leisurely walk<br>悠閒的散步
+lengthen	延長（v.）<br><br>lengthen the time<br>延長時間<br><br>long → length → lengthen
+liar	騙子（n.）<br><br>He is a liar.<br>他是個騙子。
+librarian	圖書館員（n.）<br><br>ask the librarian<br>問圖書館員
+license	執照（n./v.）<br><br>a driver's license<br>駕照
+lifeguard	救生員（n.）<br><br>The lifeguard saved him.<br>救生員救了他。
+limitation	限制（n.）<br><br>time limitations<br>時間限制
+linen	亞麻布（n.）<br><br>a linen shirt<br>亞麻襯衫
+lipstick	口紅（n.）<br><br>red lipstick<br>紅色口紅
+liquor	烈酒（n.）<br><br>hard liquor<br>烈酒
+literary	文學的（adj.）<br><br>a literary work<br>一部文學作品
+literature	文學（n.）<br><br>English literature<br>英國文學
+loan	貸款（n./v.）<br><br>a bank loan<br>銀行貸款
+lobster	龍蝦（n.）<br><br>lobster for dinner<br>晚餐吃龍蝦
+logic	邏輯（n.）<br><br>There is no logic.<br>沒有邏輯。
+logical	合乎邏輯的（adj.）<br><br>a logical answer<br>合乎邏輯的答案
+loosen	鬆開（v.）<br><br>Loosen your tie.<br>把領帶鬆開。
+lousy	糟糕的（adj.）<br><br>a lousy day<br>糟糕的一天
+loyal	忠誠的（adj.）<br><br>a loyal soldier<br>忠誠的士兵
+loyalty	忠誠（n.）<br><br>loyalty to the king<br>對國王的忠誠
+luxurious	奢華的（adj.）<br><br>a luxurious hotel<br>一間奢華的飯店
+luxury	奢侈（n.）<br><br>a luxury car<br>一台豪華車
+machinery	機器（總稱）（n.）<br><br>farm machinery<br>農業機具
+magnetic	有磁性的（adj.）<br><br>a magnetic field<br>磁場
+magnificent	壯麗的（adj.）<br><br>a magnificent palace<br>壯麗的宮殿
+makeup	化妝品（n.）<br><br>She wears makeup.<br>她有化妝。
+manual	手冊；手動的（n./adj.）<br><br>Read the manual.<br>閱讀手冊。
+manufacture	製造（n./v.）<br><br>They manufacture cars.<br>他們製造汽車。
+manufacturer	製造商（n.）<br><br>a car manufacturer<br>汽車製造商
+marathon	馬拉松（n.）<br><br>He ran a marathon.<br>他跑了一場馬拉松。
+margin	邊緣；利潤（n.）<br><br>profit margin<br>利潤率
+maturity	成熟（n.）<br><br>maturity date<br>到期日
+maximum	最大量（adj./n.）<br><br>the maximum speed<br>最高速度<br><br>相反：minimum
+measurable	可測量的（adj.）<br><br>measurable results<br>可衡量的成果
+measure(s)	措施（n.）<br><br>safety measures<br>安全措施<br><br>通常用複數 measures
+mechanic	技師（n.）<br><br>a car mechanic<br>汽車修理技師
+mechanical	機械的（adj.）<br><br>a mechanical problem<br>機械故障
+memorable	難忘的（adj.）<br><br>a memorable trip<br>一趟難忘的旅行
+memorial	紀念的；紀念碑（adj./n.）<br><br>a war memorial<br>戰爭紀念碑
+memorize	背誦（v.）<br><br>Memorize these words.<br>背下這些單字。
+merchant	商人（n.）<br><br>a rich merchant<br>一位富商
+mercy	仁慈（n.）<br><br>Have mercy!<br>手下留情！
+mere	僅僅的（adj.）<br><br>a mere child<br>只不過是個孩子<br><br>merely ＝ 僅僅
+merit	優點（n.）<br><br>the merits of the plan<br>計畫的優點
+messenger	信差（n.）<br><br>The king sent a messenger.<br>國王派了一名信使。
+messy	凌亂的（adj.）<br><br>a messy room<br>凌亂的房間
+microscope	顯微鏡（n.）<br><br>look through a microscope<br>用顯微鏡看
+mild	溫和的（adj.）<br><br>mild weather<br>溫和的天氣
+mill	磨坊；工廠（n./v.）<br><br>a paper mill<br>造紙廠
+millionaire	百萬富翁（n.）<br><br>He became a millionaire.<br>他成了百萬富翁。
+miner	礦工（n.）<br><br>a coal miner<br>煤礦工人
+mineral	礦物（n.）<br><br>mineral water<br>礦泉水
+minimum	最小量（adj./n.）<br><br>the minimum wage<br>最低工資
+minister	部長；大臣（n.）<br><br>the prime minister<br>首相、總理
+ministry	（政府的）部（n.）<br><br>the Ministry of Education<br>教育部
+mischief	惡作劇（n.）<br><br>The boy is full of mischief.<br>那個男孩很愛惡作劇。
+miserable	悲慘的（adj.）<br><br>a miserable life<br>悲慘的生活
+misfortune	不幸（n.）<br><br>a great misfortune<br>一大不幸
+mislead	誤導（v.）<br><br>The report misled us.<br>這份報告誤導了我們。
+misunderstand	誤解（v.）<br><br>Don't misunderstand me.<br>不要誤會我。
+moderate	適度的（adj.）<br><br>moderate exercise<br>適度的運動
+modest	謙虛的（adj.）<br><br>He is very modest.<br>他很謙虛。
+modesty	謙虛（名詞）（n.）<br><br>with modesty<br>謙虛地
+monitor	螢幕；監控（n./v.）<br><br>a computer monitor<br>電腦螢幕
+monument	紀念碑（n.）<br><br>a national monument<br>國家紀念碑
+moreover	此外（adv.）<br><br>Moreover, it is free.<br>此外，它是免費的。
+motivate	激勵（v.）<br><br>What motivates you?<br>是什麼激勵你？
+motivation	動機（n.）<br><br>lack of motivation<br>缺乏動力
+mountainous	多山的（adj.）<br><br>a mountainous country<br>多山的國家
+muddy	泥濘的（adj.）<br><br>a muddy road<br>泥濘的路
+mule	騾子（n.）<br><br>as stubborn as a mule<br>像騾子一樣固執
+multiple	多重的（adj.）<br><br>multiple choice<br>選擇題
+murderer	兇手（n.）<br><br>The murderer was caught.<br>兇手被抓到了。
+murmur	低語（n./v.）<br><br>a soft murmur<br>輕聲低語
+mutual	互相的（adj.）<br><br>mutual respect<br>互相尊重
+mysterious	神祕的（adj.）<br><br>a mysterious man<br>一個神祕的男人
+namely	也就是（adv.）<br><br>two countries, namely Japan and Korea<br>兩個國家，也就是日本和韓國
+nationality	國籍（n.）<br><br>What is your nationality?<br>你是哪國人？
+needy	貧困的（adj.）<br><br>help needy families<br>幫助貧困家庭
+neglect	忽視（n./v.）<br><br>Don't neglect your health.<br>不要忽視你的健康。
+negotiate	談判（v.）<br><br>negotiate a price<br>談價格
+nevertheless	然而（adv.）<br><br>It was hard; nevertheless, we won.<br>很困難，然而我們贏了。
+nightmare	惡夢（n.）<br><br>I had a nightmare.<br>我做了惡夢。
+noble	高貴的；貴族（adj./n.）<br><br>a noble family<br>一個貴族家庭
+nonsense	胡說（n.）<br><br>That's nonsense!<br>胡說八道！
+nowadays	現今（adv.）<br><br>Nowadays, everyone has a phone.<br>現在人人都有手機。
+nuclear	核子的（adj.）<br><br>nuclear power<br>核能
+numerous	許多的（adj.）<br><br>numerous times<br>很多次
+nursery	托兒所（n.）<br><br>a nursery school<br>托兒所
+nutritious	有營養的（adj.）<br><br>nutritious food<br>有營養的食物
+obedience	服從（n.）<br><br>obedience to the law<br>守法
+obedient	服從的（adj.）<br><br>an obedient dog<br>一隻聽話的狗
+objection	反對（n.）<br><br>Any objections?<br>有人反對嗎？
+objective	目標；客觀的（n./adj.）<br><br>our main objective<br>我們的主要目標
+observation	觀察（n.）<br><br>careful observation<br>仔細觀察
+obstacle	障礙（n.）<br><br>overcome obstacles<br>克服障礙
+obtain	獲得（v.）<br><br>obtain information<br>取得資訊
+occasional	偶爾的（adj.）<br><br>occasional rain<br>偶陣雨<br><br>occasionally ＝ 偶爾
+occupation	職業；佔領（n.）<br><br>What is your occupation?<br>你的職業是什麼？
+occupy	佔據（v.）<br><br>The army occupied the city.<br>軍隊佔領了城市。
+offend	冒犯（v.）<br><br>I didn't mean to offend you.<br>我不是有意冒犯你。
+offense	冒犯；進攻（n.）<br><br>No offense.<br>沒有惡意。
+offensive	冒犯的；攻擊的（adj.）<br><br>offensive words<br>冒犯的話
+opera	歌劇（n.）<br><br>We went to the opera.<br>我們去看歌劇。
+oppose	反對（v.）<br><br>They oppose the plan.<br>他們反對這個計畫。
+option	選項（n.）<br><br>We have two options.<br>我們有兩個選擇。
+orbit	軌道（n./v.）<br><br>in orbit around the earth<br>繞著地球的軌道
+orchestra	管弦樂團（n.）<br><br>a symphony orchestra<br>交響樂團
+orientation	方向；新生訓練（n.）<br><br>new student orientation<br>新生訓練
+orphan	孤兒（n./v.）<br><br>He became an orphan.<br>他成了孤兒。
+otherwise	否則（adv.）<br><br>Hurry, otherwise you'll be late.<br>快點，否則你會遲到。
+outcome	結果（n.）<br><br>the outcome of the war<br>戰爭的結果
+outstanding	傑出的（adj.）<br><br>an outstanding student<br>一位傑出的學生
+oval	橢圓形的（adj./n.）<br><br>an oval table<br>一張橢圓桌
+overcoat	大衣（n.）<br><br>a heavy overcoat<br>一件厚大衣
+overcome	克服（v.）<br><br>overcome your fear<br>克服你的恐懼
+overlook	忽略；俯瞰（v.）<br><br>a room overlooking the sea<br>可以俯瞰大海的房間
+overnight	一夜之間（adv./adj.）<br><br>He became famous overnight.<br>他一夜成名。
+overthrow	推翻（v.）<br><br>They overthrew the king.<br>他們推翻了國王。
+oxygen	氧氣（n.）<br><br>We need oxygen.<br>我們需要氧氣。
+pace	步調（n./v.）<br><br>at your own pace<br>照你自己的步調
+panel	面板；小組（n.）<br><br>a solar panel<br>太陽能板
+parachute	降落傘（n./v.）<br><br>jump with a parachute<br>跳傘
+paragraph	段落（n.）<br><br>the first paragraph<br>第一段
+partial	部分的（adj.）<br><br>a partial answer<br>部分的答案
+participation	參與（n.）<br><br>Thank you for your participation.<br>謝謝你的參與。
+partnership	合夥（n.）<br><br>a business partnership<br>商業合夥關係
+passive	被動的（adj.）<br><br>a passive attitude<br>被動的態度
+pasta	義大利麵（總稱）（n.）<br><br>I made pasta.<br>我做了義大利麵。
+paw	腳掌（n./v.）<br><br>the dog's paw<br>狗的腳掌
+peculiar	奇特的（adj.）<br><br>a peculiar smell<br>一股奇怪的味道
+peep	偷看（n./v.）<br><br>Don't peep!<br>不要偷看！
+peer	同儕；凝視（n./v.）<br><br>peer pressure<br>同儕壓力
+penalty	處罰；罰球（n.）<br><br>a penalty kick<br>罰球
+percent	百分比（n.）<br><br>50 percent<br>50%
+percentage	百分比（名詞）（n.）<br><br>a high percentage<br>很高的比例
+perfection	完美（n.）<br><br>Nobody can reach perfection.<br>沒有人能達到完美。
+perfume	香水（n./v.）<br><br>She wears perfume.<br>她有擦香水。
+permanent	永久的（adj.）<br><br>a permanent job<br>一份長期工作
+persuasion	說服（名詞）（n.）<br><br>the power of persuasion<br>說服力
+persuasive	有說服力的（adj.）<br><br>a persuasive speech<br>有說服力的演講
+pessimistic	悲觀的（adj.）<br><br>Don't be so pessimistic.<br>不要那麼悲觀。<br><br>相反：optimistic
+pest	害蟲（n.）<br><br>Rats are pests.<br>老鼠是害蟲。
+phenomenon	現象（n.）<br><br>a natural phenomenon<br>自然現象
+philosopher	哲學家（n.）<br><br>a Greek philosopher<br>希臘哲學家
+philosophical	哲學的（adj.）<br><br>a philosophical question<br>哲學問題
+philosophy	哲學（n.）<br><br>my philosophy of life<br>我的人生哲學
+photography	攝影（n.）<br><br>I like photography.<br>我喜歡攝影。
+physical	身體的；物理的（adj.）<br><br>physical exercise<br>體能運動
+physician	醫師（n.）<br><br>consult a physician<br>諮詢醫師
+physicist	物理學家（n.）<br><br>a famous physicist<br>一位有名的物理學家
+physics	物理學（n.）<br><br>I studied physics.<br>我讀過物理。
+pickle	醃菜（n.）<br><br>pickles on a burger<br>漢堡裡的酸黃瓜
+pioneer	先驅（n./v.）<br><br>a pioneer of AI<br>人工智慧的先驅
+plentiful	豐富的（adj.）<br><br>plentiful food<br>豐富的食物
+plot	情節；陰謀（n./v.）<br><br>the plot of the novel<br>小說的情節
+plum	李子（n.）<br><br>a plum tree<br>一棵李樹
+plumber	水電工（n.）<br><br>Call a plumber.<br>叫水電工。<br><br>b 不發音
+poisonous	有毒的（adj.）<br><br>a poisonous snake<br>一條毒蛇
+polish	擦亮；波蘭的（大寫）（n./v.）<br><br>Polish your shoes.<br>擦亮你的鞋子。
+popularity	受歡迎程度（n.）<br><br>the popularity of the game<br>這款遊戲的人氣
+portable	可攜帶的（adj.）<br><br>a portable charger<br>行動電源
+portray	描繪（v.）<br><br>The movie portrays a hero.<br>這部電影描繪一位英雄。
+possess	擁有（v.）<br><br>He possesses great power.<br>他擁有強大的力量。
+possession	所有物（n.）<br><br>my possessions<br>我的財物
+postage	郵資（n.）<br><br>How much is the postage?<br>郵資多少？
+potential	潛在的；潛力（adj./n.）<br><br>She has great potential.<br>她很有潛力。
+precise	精確的（adj.）<br><br>precise data<br>精確的資料
+predict	預測（v.）<br><br>Can you predict the future?<br>你能預測未來嗎？
+prediction	預測（名詞）（n.）<br><br>My prediction was right.<br>我的預測是對的。
+pregnancy	懷孕（n.）<br><br>during pregnancy<br>懷孕期間
+pregnant	懷孕的（adj.）<br><br>She is pregnant.<br>她懷孕了。
+presentation	簡報（n.）<br><br>I have a presentation tomorrow.<br>我明天有簡報。
+preservation	保存（n.）<br><br>food preservation<br>食物保存
+preserve	保存；保護（v.）<br><br>preserve old buildings<br>保存古建築
+prevention	預防（n.）<br><br>Prevention is better than cure.<br>預防勝於治療。
+prime	主要的；最佳的（adj./n.）<br><br>prime minister<br>首相
+primitive	原始的（adj.）<br><br>primitive tools<br>原始工具
+priority	優先（n.）<br><br>Safety is our top priority.<br>安全是我們的首要考量。
+privacy	隱私（n.）<br><br>respect my privacy<br>尊重我的隱私
+privilege	特權（n./v.）<br><br>It's a privilege.<br>這是一種榮幸。
+procedure	程序（n.）<br><br>follow the procedure<br>遵循程序
+proceed	繼續進行（v.）<br><br>Please proceed.<br>請繼續。
+productive	有生產力的（adj.）<br><br>a productive day<br>有效率的一天
+profession	職業（n.）<br><br>the medical profession<br>醫療業
+professional	專業的（adj./n.）<br><br>a professional player<br>一位職業選手
+profitable	有利可圖的（adj.）<br><br>a profitable business<br>賺錢的生意
+prominent	著名的；突出的（adj.）<br><br>a prominent leader<br>著名的領袖
+promising	有前途的（adj.）<br><br>a promising young player<br>一位有前途的年輕選手
+promotion	升遷；促銷（n.）<br><br>He got a promotion.<br>他升職了。
+prompt	迅速的；促使（v./adj./n.）<br><br>a prompt reply<br>迅速的回覆
+pronunciation	發音（n.）<br><br>Your pronunciation is good.<br>你的發音很好。
+proposal	提案；求婚（n.）<br><br>a business proposal<br>一份商業提案
+prosper	繁榮（v.）<br><br>The business prospered.<br>生意興隆。
+prosperity	繁榮（名詞）（n.）<br><br>peace and prosperity<br>和平與繁榮
+prosperous	繁榮的（adj.）<br><br>a prosperous country<br>繁榮的國家
+protein	蛋白質（n.）<br><br>high protein food<br>高蛋白食物
+protest	抗議（n./v.）<br><br>They protested the war.<br>他們抗議戰爭。
+psychological	心理的（adj.）<br><br>psychological pressure<br>心理壓力
+psychologist	心理學家（n.）<br><br>see a psychologist<br>看心理師<br><br>p 不發音
+psychology	心理學（n.）<br><br>I study psychology.<br>我讀心理學。<br><br>p 不發音
+publication	出版（n.）<br><br>the date of publication<br>出版日期
+publicity	宣傳（n.）<br><br>bad publicity<br>負面宣傳
+publish	出版（v.）<br><br>publish a book<br>出版一本書
+publisher	出版商（n.）<br><br>a game publisher<br>遊戲發行商
+pursue	追求（v.）<br><br>pursue your dream<br>追求你的夢想
+pursuit	追求（名詞）（n.）<br><br>the pursuit of happiness<br>追求幸福
+quarrel	爭吵（n./v.）<br><br>They had a quarrel.<br>他們吵了一架。
+quilt	被子（n./v.）<br><br>a warm quilt<br>一條暖和的被子
+quotation	引文；報價（n.）<br><br>a famous quotation<br>名言
+radar	雷達（n.）<br><br>The plane was on the radar.<br>飛機出現在雷達上。
+rage	狂怒（n./v.）<br><br>He was in a rage.<br>他暴怒。
+rainfall	降雨量（n.）<br><br>annual rainfall<br>年降雨量
+raisin	葡萄乾（n.）<br><br>raisin bread<br>葡萄乾麵包
+realistic	實際的；寫實的（adj.）<br><br>a realistic goal<br>一個實際的目標
+rebel	叛軍；反抗（n./v.）<br><br>The rebels attacked.<br>叛軍發動攻擊。
+recall	回想；召回（v./n.）<br><br>I can't recall his name.<br>我想不起他的名字。
+reception	接待處；歡迎會（n.）<br><br>the hotel reception<br>飯店櫃台
+recipe	食譜（n.）<br><br>a cake recipe<br>蛋糕食譜
+recognition	認出；認可（n.）<br><br>face recognition<br>人臉辨識
+recovery	恢復（n.）<br><br>a quick recovery<br>快速康復
+recreation	娛樂（n.）<br><br>recreation center<br>休閒中心
+recycle	回收（v.）<br><br>Recycle your bottles.<br>回收你的瓶子。
+reduction	減少（名詞）（n.）<br><br>a price reduction<br>降價
+refer	提到；參考（v.）<br><br>refer to the dictionary<br>查字典<br><br>refer to ＝ 提到、參考
+reference	參考（n.）<br><br>for your reference<br>供你參考
+reflect	反射；反映（v.）<br><br>The water reflects the moon.<br>水面映著月亮。
+reflection	倒影；反思（n.）<br><br>her reflection in the mirror<br>她在鏡中的倒影
+reform	改革（n./v.）<br><br>tax reform<br>稅制改革
+refugee	難民（n.）<br><br>war refugees<br>戰爭難民
+refund	退款（n./v.）<br><br>I want a refund.<br>我要退款。
+refusal	拒絕（名詞）（n.）<br><br>his refusal to help<br>他拒絕幫忙
+regarding	關於（prep.）<br><br>regarding your question<br>關於你的問題
+register	登記；註冊（v./n.）<br><br>Register online.<br>線上註冊。
+registration	註冊（名詞）（n.）<br><br>registration fee<br>報名費
+regulate	規範（v.）<br><br>regulate the market<br>規範市場
+regulation	規定（n.）<br><br>safety regulations<br>安全規定
+rejection	拒絕（名詞）（n.）<br><br>fear of rejection<br>害怕被拒絕
+relaxation	放鬆（n.）<br><br>time for relaxation<br>放鬆的時間
+relevant	相關的（adj.）<br><br>relevant information<br>相關資訊
+relieve	減輕（v.）<br><br>relieve the pain<br>減輕疼痛
+reluctant	不情願的（adj.）<br><br>He was reluctant to go.<br>他不太願意去。
+remark	評論（n./v.）<br><br>a rude remark<br>無禮的評論
+remarkable	非凡的（adj.）<br><br>a remarkable victory<br>驚人的勝利
+remedy	療法；補救（n./v.）<br><br>a home remedy<br>偏方
+renew	更新；續約（v.）<br><br>renew your passport<br>更新護照
+repetition	重複（n.）<br><br>Learning needs repetition.<br>學習需要重複。
+representation	代表；描繪（n.）<br><br>fair representation<br>公平的代表權
+reputation	名聲（n.）<br><br>a good reputation<br>好名聲
+rescue	救援（n./v.）<br><br>They rescued the child.<br>他們救了那個孩子。
+research	研究（n./v.）<br><br>do research<br>做研究
+researcher	研究員（n.）<br><br>a medical researcher<br>醫學研究員
+resemble	像（v.）<br><br>He resembles his father.<br>他長得像他爸爸。
+reservation	預訂（n.）<br><br>I have a reservation.<br>我有訂位。
+resign	辭職（v.）<br><br>He resigned.<br>他辭職了。
+resignation	辭職（名詞）（n.）<br><br>a letter of resignation<br>辭職信
+resistance	抵抗（n.）<br><br>They met strong resistance.<br>他們遇到強烈抵抗。
+resolution	決心；解決（n.）<br><br>New Year's resolution<br>新年新希望
+resolve	解決；決心（v./n.）<br><br>resolve the problem<br>解決問題
+respectable	可敬的；體面的（adj.）<br><br>a respectable job<br>一份體面的工作
+respectful	恭敬的（adj.）<br><br>Be respectful.<br>要有禮貌。
+restore	恢復（v.）<br><br>restore peace<br>恢復和平
+restriction	限制（名詞）（n.）<br><br>age restriction<br>年齡限制
+retain	保留（v.）<br><br>retain information<br>記住資訊
+retire(ment)	退休（v./(n.)）<br><br>He retired at 65.<br>他 65 歲退休。<br><br>retirement ＝ 退休（名詞）
+retreat	撤退（n./v.）<br><br>The army retreated.<br>軍隊撤退了。
+reunion	團聚（n.）<br><br>a family reunion<br>家庭團聚
+revenge	報仇（n./v.）<br><br>take revenge<br>報仇
+revise	修改（v.）<br><br>revise the plan<br>修改計畫
+revision	修改；複習（n.）<br><br>the revision of the report<br>報告的修訂
+revolution	革命（n.）<br><br>the Industrial Revolution<br>工業革命
+revolutionary	革命性的（adj./n.）<br><br>a revolutionary idea<br>革命性的想法
+reward	獎賞（n./v.）<br><br>a reward for hard work<br>努力的獎賞
+rhyme	押韻（n./v.）<br><br>These words rhyme.<br>這些字押韻。
+rhythm	節奏（n.）<br><br>a strong rhythm<br>強烈的節奏
+riddle	謎語（n.）<br><br>Can you solve the riddle?<br>你能解開這個謎語嗎？
+robber	強盜（n.）<br><br>The robber ran away.<br>強盜跑走了。
+romance	愛情；浪漫（n.）<br><br>a summer romance<br>夏日戀情
+route	路線（n./v.）<br><br>the best route<br>最佳路線
+ruin	毀滅；廢墟（v./n.）<br><br>ancient ruins<br>古代遺跡
+rural	鄉村的（adj.）<br><br>rural areas<br>鄉村地區<br><br>相反：urban
+rusty	生鏽的（adj.）<br><br>a rusty knife<br>一把生鏽的刀
+sacrifice	犧牲（n./v.）<br><br>They sacrificed a lot.<br>他們犧牲了很多。
+satellite	衛星（n.）<br><br>a weather satellite<br>氣象衛星
+satisfaction	滿意（n.）<br><br>customer satisfaction<br>顧客滿意度
+scarcely	幾乎不（adv.）<br><br>I can scarcely believe it.<br>我幾乎不敢相信。
+scenery	風景（n.）<br><br>beautiful scenery<br>美麗的風景
+scold	責罵（v./n.）<br><br>My mom scolded me.<br>我媽罵了我。
+scoop	勺；舀（n./v.）<br><br>a scoop of ice cream<br>一球冰淇淋
+scratch	抓；刮痕（n./v.）<br><br>The cat scratched me.<br>貓抓了我。
+sculpture	雕塑（n./v.）<br><br>a stone sculpture<br>石雕
+secure	安全的；獲得（v./adj.）<br><br>secure a job<br>找到一份工作
+seize	抓住；奪取（v.）<br><br>seize the chance<br>抓住機會
+settler	移居者（n.）<br><br>early settlers<br>早期移民
+severe	嚴重的（adj.）<br><br>a severe storm<br>強烈暴風雨
+sew	縫（v.）<br><br>She sewed a dress.<br>她縫了一件洋裝。
+shade	陰涼處（n./v.）<br><br>Sit in the shade.<br>坐在陰涼處。
+shady	陰涼的；可疑的（adj.）<br><br>a shady deal<br>可疑的交易
+shameful	可恥的（adj.）<br><br>a shameful act<br>可恥的行為
+shave	刮鬍子（v./n.）<br><br>He shaves every morning.<br>他每天早上刮鬍子。
+shelter	避難所（n./v.）<br><br>They found shelter in a cave.<br>他們在洞穴裡避難。
+shift	輪班；轉移（n./v.）<br><br>a night shift<br>夜班
+sightseeing	觀光（n.）<br><br>go sightseeing<br>去觀光
+signature	簽名（n./adj.）<br><br>Your signature, please.<br>請簽名。
+significance	重要性（n.）<br><br>the significance of the event<br>這個事件的重要性
+sincerity	真誠（n.）<br><br>with sincerity<br>真誠地
+singular	單數的（adj./n.）<br><br>a singular noun<br>單數名詞
+site	地點；網站（n./v.）<br><br>a construction site<br>工地
+sketch	素描（n./v.）<br><br>a quick sketch<br>一張速寫
+skyscraper	摩天大樓（n.）<br><br>the city's skyscrapers<br>城市的摩天大樓
+slight	輕微的（adj./n./v.）<br><br>a slight cold<br>輕微感冒
+slogan	標語（n.）<br><br>an advertising slogan<br>廣告標語
+socket	插座（n.）<br><br>an electric socket<br>電源插座
+software	軟體（n.）<br><br>computer software<br>電腦軟體
+solar	太陽的（adj.）<br><br>solar energy<br>太陽能
+spade	鏟子；（撲克）黑桃（n.）<br><br>dig with a spade<br>用鏟子挖
+spare	多餘的；備用的（adj./v./n.）<br><br>spare time<br>空閒時間
+spark	火花（n./v.）<br><br>a spark of hope<br>一線希望
+spear	矛（n./v.）<br><br>The soldier carried a spear.<br>士兵拿著一支長矛。
+species	物種（n.）<br><br>endangered species<br>瀕危物種
+spiritual	精神的（adj.）<br><br>spiritual life<br>精神生活
+splendid	壯麗的；極好的（adj.）<br><br>a splendid idea<br>極好的主意
+split	分開（v./n.）<br><br>Let's split the bill.<br>我們分攤帳單吧。
+sprinkle	灑（v./n.）<br><br>Sprinkle some salt.<br>灑一點鹽。
+stab	刺（n./v.）<br><br>He was stabbed.<br>他被刺傷了。
+statistic(s)	統計數字（n.）<br><br>official statistics<br>官方統計<br><br>通常用複數 statistics
+status	地位；狀態（n.）<br><br>social status<br>社會地位
+stem	莖；起源於（n./v.）<br><br>the stem of a flower<br>花莖
+stereo	立體聲音響（n.）<br><br>a car stereo<br>汽車音響
+stingy	小氣的（adj.）<br><br>He is stingy with money.<br>他對錢很小氣。
+stocking(s)	長襪（n.）<br><br>a pair of stockings<br>一雙長襪
+strengthen	加強（v.）<br><br>strengthen the army<br>加強軍隊<br><br>strong → strength → strengthen
+stripe	條紋（n.）<br><br>a shirt with stripes<br>一件條紋襯衫
+strive	努力（v.）<br><br>strive for success<br>努力追求成功
+stroke	中風；一擊（n./v.）<br><br>He had a stroke.<br>他中風了。
+submarine	潛水艇（n./adj.）<br><br>a nuclear submarine<br>核潛艇
+sue	控告（v.）<br><br>They sued the company.<br>他們控告了那家公司。
+suggestion	建議（名詞）（n.）<br><br>Any suggestions?<br>有什麼建議嗎？
+summarize	總結（v.）<br><br>Summarize the article.<br>總結這篇文章。
+surgeon	外科醫生（n.）<br><br>a brain surgeon<br>腦外科醫生
+surgery	手術（n.）<br><br>He needs surgery.<br>他需要動手術。
+surrender	投降（v./n.）<br><br>The enemy surrendered.<br>敵人投降了。
+surroundings	環境（n.）<br><br>new surroundings<br>新環境
+suspicious	可疑的（adj.）<br><br>a suspicious man<br>一個可疑的男人
+sway	搖擺（n./v.）<br><br>The trees swayed.<br>樹搖擺著。
+syllable	音節（n.）<br><br>a word with two syllables<br>兩個音節的單字
+sympathetic	同情的（adj.）<br><br>a sympathetic friend<br>有同情心的朋友
+sympathy	同情（n.）<br><br>I have sympathy for him.<br>我很同情他。
+systematic	有系統的（adj.）<br><br>a systematic method<br>有系統的方法
+technician	技術人員（n.）<br><br>a lab technician<br>實驗室技術員
+technological	科技的（adj.）<br><br>technological progress<br>科技進步
+telegraph	電報（n./v.）<br><br>send a telegraph<br>發電報
+telescope	望遠鏡（n.）<br><br>look through a telescope<br>用望遠鏡看
+tendency	傾向（n.）<br><br>a tendency to be late<br>常遲到的傾向
+tense	緊張的；時態（adj./v.）<br><br>a tense moment<br>緊張的時刻
+tension	緊張（名詞）（n.）<br><br>tension between countries<br>國家間的緊張關係
+terror	恐怖（n.）<br><br>They ran in terror.<br>他們驚恐地逃跑。
+theme	主題（n.）<br><br>the theme of the party<br>派對的主題
+thorough	徹底的（adj.）<br><br>a thorough check<br>徹底的檢查
+thoughtful	體貼的；深思的（adj.）<br><br>a thoughtful gift<br>一份貼心的禮物
+tickle	搔癢（v./n.）<br><br>Don't tickle me!<br>不要搔我癢！
+timetable	時刻表（n.）<br><br>the train timetable<br>火車時刻表
+timid	膽小的（adj.）<br><br>a timid child<br>膽小的孩子
+tolerable	可忍受的（adj.）<br><br>The pain is tolerable.<br>疼痛可以忍受。
+tolerance	容忍（n.）<br><br>zero tolerance<br>零容忍
+tolerant	寬容的（adj.）<br><br>be tolerant of others<br>對別人寬容
+tolerate	容忍（v.）<br><br>I can't tolerate it.<br>我無法容忍。
+tomb	墳墓（n.）<br><br>the king's tomb<br>國王的陵墓<br><br>b 不發音
+tortoise	陸龜（n.）<br><br>The tortoise and the hare.<br>龜兔賽跑。
+torture	折磨（n./v.）<br><br>It was torture.<br>那真是折磨。
+tragedy	悲劇（n.）<br><br>a terrible tragedy<br>一場可怕的悲劇
+tragic	悲劇的（adj.）<br><br>a tragic ending<br>悲慘的結局
+transfer	轉移；轉帳（n./v.）<br><br>transfer money<br>轉帳
+transform	轉變（v.）<br><br>transform the city<br>改造城市
+translate	翻譯（v.）<br><br>Translate it into Chinese.<br>把它翻成中文。
+translation	翻譯（名詞）（n.）<br><br>a good translation<br>好的翻譯
+translator	翻譯者（n.）<br><br>a translator app<br>翻譯 app
+transportation	交通運輸（n.）<br><br>public transportation<br>大眾運輸
+tremble	發抖（v./n.）<br><br>His hands trembled.<br>他的手在發抖。
+tremendous	巨大的（adj.）<br><br>a tremendous effort<br>巨大的努力
+tribal	部落的（adj.）<br><br>tribal culture<br>部落文化
+triumph	勝利（n./v.）<br><br>a great triumph<br>一場大勝利
+troublesome	麻煩的（adj.）<br><br>a troublesome problem<br>一個麻煩的問題
+tumble	跌倒（v./n.）<br><br>He tumbled down the stairs.<br>他從樓梯上摔下來。
+twig	細枝（n.）<br><br>a dry twig<br>一根乾樹枝
+universal	普遍的（adj./n.）<br><br>a universal language<br>通用語言
+urge	催促；衝動（n./v.）<br><br>I urge you to go.<br>我強烈建議你去。
+urgent	緊急的（adj.）<br><br>an urgent message<br>一則緊急訊息
+usage	用法（n.）<br><br>English usage<br>英文用法
+vacancy	空缺；空房（n.）<br><br>No vacancy.<br>客滿。
+vain	徒勞的；自負的（adj.）<br><br>in vain<br>徒勞無功
+vast	廣大的（adj.）<br><br>a vast empire<br>一個廣大的帝國
+vegetarian	素食者（n.）<br><br>I am a vegetarian.<br>我吃素。
+vessel	船；血管（n.）<br><br>a fishing vessel<br>一艘漁船
+violate	違反（v.）<br><br>violate the rules<br>違反規則
+violation	違反（名詞）（n.）<br><br>a traffic violation<br>交通違規
+virtue	美德（n.）<br><br>Patience is a virtue.<br>耐心是一種美德。
+virus	病毒（n.）<br><br>a computer virus<br>電腦病毒
+visual	視覺的（adj.）<br><br>visual effects<br>視覺效果
+vital	極重要的（adj.）<br><br>vital information<br>極重要的資訊
+voluntary	自願的（adj.）<br><br>voluntary work<br>志工服務
+volunteer	志工；自願（n./v.）<br><br>I volunteer at the hospital.<br>我在醫院當志工。
+voyage	航行（n./v.）<br><br>a long voyage<br>一段漫長的航程
+waken	醒來；喚醒（v.）<br><br>I wakened early.<br>我很早就醒了。
+website	網站（n.）<br><br>Visit our website.<br>請上我們的網站。
+welfare	福利（n.）<br><br>social welfare<br>社會福利
+wink	眨眼（n./v.）<br><br>He winked at me.<br>他對我眨眼。
+wit	機智（n.）<br><br>a man of wit<br>一個機智的人
+witch/wizard	女巫（n.）<br><br>a wicked witch<br>一個邪惡的女巫<br><br>男巫：wizard
+withdraw	提款；撤退（v.）<br><br>withdraw money<br>提款
+witness	目擊者（n./v.）<br><br>He was a witness.<br>他是目擊者。
+workout	運動、健身（n.）<br><br>a morning workout<br>晨間運動
+workplace	工作場所（n.）<br><br>safety in the workplace<br>職場安全
+wreck	殘骸；毀壞（n./v.）<br><br>a car wreck<br>車禍殘骸
+yawn	打哈欠（n./v.）<br><br>He yawned.<br>他打了個哈欠。
+youthful	年輕的（adj.）<br><br>a youthful face<br>一張年輕的臉
