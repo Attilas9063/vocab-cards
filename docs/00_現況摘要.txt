@@ -1,7 +1,7 @@
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
   英文單字卡（vocab-cards）現況摘要
-  最後更新：2026/10/22
-  對應工作日誌：log_000.txt
+  最後更新：2026/10/25
+  對應工作日誌：log_001.txt
   用途：給開發者和 AI 看「現在做到哪、下一步做什麼」。交接、每天開工時先看這份。
   每次工作結束後更新。
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
@@ -12,13 +12,13 @@
 專案名稱：英文單字卡（vocab-cards）
 電腦位置：桌面\Claude\04_專案\vocab-cards
 GitHub：github.com/Attilas9063/vocab-cards（公開）
-技術：Python 3.14 ＋ Flask ＋ HTML ＋ CSS ＋ JavaScript
+技術：Python 3.14 ＋ Flask 3.1.3 ＋ HTML ＋ CSS ＋ JavaScript
 啟動方式：（還沒有，v0.1 做完後補上）
 
 
 ━━━━━━━━━━ 二、目前版本 ━━━━━━━━━━
 
-尚未開始寫程式，準備做 v0.1（看得到自己的單字庫）。
+v0.1（看得到自己的單字庫）進行中：第 1～4 步完成，下一步是第 5 步 importer.py。
 
 
 ━━━━━━━━━━ 三、已完成 ━━━━━━━━━━
@@ -27,33 +27,46 @@ GitHub：github.com/Attilas9063/vocab-cards（公開）
 - 功能、版本（v0.1～v3.0）、時程、複習規則、技術設計都定好
 - 文件：檔案總覽、架構規劃、技術設計、版本規劃、時程規劃、複習規則、決策紀錄、現況摘要、工作日誌
 
-【環境】10/21
+【環境】10/21～10/22
 - GitHub 帳號 Attilas9063
 - Git 2.56.0 已安裝；名字、隱藏 email、預設編輯器（VS Code）、主線名稱 main 已設定
-- vocab-cards 已建立並發佈到 GitHub（公開），第一個存檔點：「建立專案，加入 README」
+- vocab-cards 已建立並發佈到 GitHub（公開）
+- 存檔點：「建立專案，加入 README」（10/21）、「加入專案文件」（10/22）
+
+【v0.1】10/25
+- 第 1 步：安裝 Flask 3.1.3
+- 第 2 步：建立資料夾 modules/、config/、templates/、static/、data/、words/
+- 第 3 步：大考中心第 1～6 級單字檔放進 words/（存檔點「加入大考中心單字檔」）
+- 第 4 步：modules/storage.py 完成（存檔點「storage.py：存檔、讀檔」）
+  · save_cards(cards)：把卡片清單存進 data/cards.json
+  · load_cards()：從 data/cards.json 讀出卡片清單
+  · 用一張 apple 測試卡測過，存讀都成功；測試程式已刪除
 
 
 ━━━━━━━━━━ 四、目前檔案 ━━━━━━━━━━
 
 vocab-cards/
 ├── README.md
+├── modules/
+│   └── storage.py
+├── data/
+│   └── cards.json        目前只有一張 apple 測試卡，第 5 步匯入時會被覆蓋
+├── words/
+│   └── 大考中心_第1級.txt ～ 大考中心_第6級.txt
+├── config/、templates/、static/   空的（Git 不記錄空資料夾，GitHub 上暫時看不到）
 └── docs/
     ├── 00_現況摘要.txt、01_檔案總覽.txt、02_架構規劃.txt、03_技術設計.txt
     ├── 04_版本規劃.txt、05_時程規劃.txt、06_複習規則.txt、07_決策紀錄.txt
-    └── 08_工作日誌/log_000.txt
+    └── 08_工作日誌/log_000.txt、log_001.txt
 
 
 ━━━━━━━━━━ 五、下一步 ━━━━━━━━━━
 
-【開工前】（開發者自己做，或第一堂一開始帶著做）
-0. 把所有文件放進 docs/，在 VS Code 提交（訊息例：「加入專案文件」）並同步到 GitHub
-
-【v0.1：看得到自己的單字庫】
-1. 安裝 Flask
-2. 建立資料夾架構：modules/、config/、templates/、static/、data/、words/
-3. 把大考中心第 1～6 級單字檔放進 words/
-4. storage.py：存檔、讀檔（第一次學 JSON）
+【v0.1：看得到自己的單字庫】剩下：
 5. importer.py：匯入單字檔
+   一行一行讀 txt、跳過 # 開頭的行、用 Tab 切成英文和背面、從檔名判斷級別、
+   檢查重複，最後用 storage.py 存進 cards.json（規則見《技術設計》第五、六點）
+   → 會一次組合好幾個新東西，建議拆小步、精神好的時段做
 6. library.py ＋ 第一個網頁：依級別瀏覽單字（第一次學 Flask、HTML）
 
 第一個功能做完時，建立《測試清單》。
@@ -61,6 +74,7 @@ vocab-cards/
 
 ━━━━━━━━━━ 六、已知問題／待辦 ━━━━━━━━━━
 
+- data/cards.json 之後會存複習進度，要不要放上公開的 GitHub（可用 .gitignore 排除）：v0.2 前決定
 - 已熟練取消打勾後怎麼排程：暫定「排到明天、間隔 1 天」，做到 v0.3 時確認
 - 「已掌握（會拼）」的詳細規則：做到 v3.0 再訂
 - Google 回饋表單：v1.0 前建立
